@@ -24,6 +24,11 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+Logo:
+![alt text](https://github.com/millerd8/millerd8.github.io/blob/master/DynamicLightLogo_V2.png "Dynamic Light Logo")
+
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
