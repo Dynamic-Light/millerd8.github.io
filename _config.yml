@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
+theme: false
 exclude:
   - assets/javascript/anchor-js
