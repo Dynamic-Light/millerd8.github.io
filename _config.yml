@@ -1,6 +1,0 @@
-theme: false
-markdown: kramdown
-kramdown:
-   auto_ids: true
-exclude:
-  - assets/javascript/anchor-js
