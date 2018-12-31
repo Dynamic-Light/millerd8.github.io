@@ -9,20 +9,12 @@ subtitle: Past Events
 
 <md-list-item class="md-3-line">
   <div class="md-list-item-text" layout="column">
-    <p>First Line</p>
-    <p>Second Line</p>
-    <p>Third Line</p>
+    <p>Dec 6: Texas Venture Labs Venture Expo </p>
+    <p>Nov 6: UT Austin Dell Medical School Texas Health Catalyst Demo Day 2018 </p>
+    <p>Oct 30: Texas Life Science Venture Showcase </p>
+    <p>Feb 14: UTAustin stARTup Studio </p>
   </div>
 </md-list-item>
-
-
-Dec 6: Texas Venture Labs Venture Expo
-
-Nov 6: UT Austin Dell Medical School Texas Health Catalyst Demo Day 2018
-
-Oct 30: Texas Life Science Venture Showcase
-
-Feb 14: UTAustin stARTup Studio
 
 
 <h1> 2017 </h1>
