@@ -6,7 +6,6 @@ subtitle: Past Events
 <div>
 
 <h1> 2018 </h1>
-
 <md-list-item class="md-3-line">
   <div class="md-list-item-text" layout="column">
     <p>Dec 6: Texas Venture Labs Venture Expo </p>
@@ -16,10 +15,12 @@ subtitle: Past Events
   </div>
 </md-list-item>
 
-
 <h1> 2017 </h1>
-Dec 7: UT Austin Dell Medical School Texas Health Catalyst Demo Day 2017
-
-Oct 6: National Science Foundation Southwest Regional I-Corps Program
+<md-list-item class="md-3-line">
+  <div class="md-list-item-text" layout="column">
+    <p>Dec 7: UT Austin Dell Medical School Texas Health Catalyst Demo Day 2017 </p>
+    <p>Oct 6: National Science Foundation Southwest Regional I-Corps Program </p>
+  </div>
+</md-list-item>
 
 </div>
