@@ -30,8 +30,8 @@ navbar-links:
   Home: ""
   Technology: "technology"
   #Videos: "videos"
-  About: "about"
   Events: "events"
+  About Us: "about"
 
 
 # --- Footer options --- #
