@@ -6,6 +6,16 @@ subtitle: Past Events
 <div>
 
 <h1> 2018 </h1>
+
+<md-list-item class="md-3-line">
+  <div class="md-list-item-text" layout="column">
+    <p>First Line</p>
+    <p>Second Line</p>
+    <p>Third Line</p>
+  </div>
+</md-list-item>
+
+
 Dec 6: Texas Venture Labs Venture Expo
 
 Nov 6: UT Austin Dell Medical School Texas Health Catalyst Demo Day 2018
