@@ -8,6 +8,7 @@ subtitle: Interested Investors
 Please contact Len Pagliaro at lpagliaro@dynamiclight.ai <lpagliaro@dynamiclight.ai>
         [lpagliaro@dynamiclight.ai](lpagliaro@dynamiclight.ai)
         [mailto](mailto:lpagliaro@dynamiclight.ai)
+        <a href="mailto:lpagliaro@dynamiclight.ai" title="Email me">
     </p>
 
 </div>
