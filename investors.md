@@ -1,10 +1,8 @@
 ---
 layout: page
 title: Dynamic Light
-subtitle: Investors
+subtitle: Interested Investors
 ---
 <div>
-<p>
-Interested investors can contact Len Pagliaro at lpagliaro@dynamiclight.ai.
-	</p>
+Please contact Len Pagliaro at lpagliaro@dynamiclight.ai.
 </div>
