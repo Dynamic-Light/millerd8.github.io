@@ -5,6 +5,6 @@ subtitle: Contact Us
 ---
 <div>
     <p style="text-align: center;">
-Please contact Len Pagliaro at lpagliaro@dynamiclight.ai
+Please contact info@dynamiclight.ai for further information.
     </p>
 </div>
