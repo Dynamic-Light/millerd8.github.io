@@ -8,7 +8,7 @@ subtitle: Past Events
 <h1> 2019 </h1>
 <md-list-item class="md-3-line">
   <div class="md-list-item-text" layout="column">
-    <p>Apr 18: McCombs School of BusinessJon Brumley Texas Venture Labs Expo - Spring 2019 </p>
+    <p>Apr 18: McCombs School of Business Jon Brumley Texas Venture Labs Expo - Spring 2019 </p>
     <p>Apr 8: Dynamic Light featured in <a href="https://dellmed.utexas.edu/blog/a-speckle-of-hope-a-ut-austin-project-journey-through-beyond-texas-health-catalyst">UT Austin Dell Medical School article</a> </p>
   </div>
 </md-list-item>
