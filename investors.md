@@ -5,6 +5,6 @@ subtitle: Interested Investors
 ---
 <div>
     <p style="text-align: center;">
-Please contact Len Pagliaro at lpagliaro@dynamiclight.ai
+Please contact info@dynamiclight.ai
     </p>
 </div>
