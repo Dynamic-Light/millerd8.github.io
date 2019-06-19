@@ -19,7 +19,7 @@ subtitle: Our Technology
 </div>
 
 <div style="float:left;width:auto;"> 
-  <iframe src="https://flimp.me/ICG-Embed?em=Y?t=20&autoplay=1"  webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder="0"  style="width: 370px; height: 356px;">
+  <iframe src="https://flimp.me/ICG-Embed?em=Y?t=20&autoplay=1"  webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder="0"  style="width: 370px; height: 360px;">
   </iframe>
 </div> <div style="clear:both;height:1em;"></div>
 <div>
