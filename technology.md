@@ -14,7 +14,7 @@ subtitle: Our Technology
 </div>
 
 <div style="float:left;width:auto;margin-right:10px;"> 
-  <iframe src="https://flimp.me/DL-Footage-Embed?em=Y"  webkitallowfullscreen allow="autoplay; encrypted-media" mozallowfullscreen allowfullscreen frameborder="0"  style="width: 370px; height: 356px;">
+  <iframe src="https://flimp.me/DL-Footage-Embed?em=Y?autoplay=1&loop=1&start=22"  webkitallowfullscreen allow="autoplay; encrypted-media" mozallowfullscreen allowfullscreen frameborder="0"  style="width: 370px; height: 356px;">
   </iframe>
 </div>
 
