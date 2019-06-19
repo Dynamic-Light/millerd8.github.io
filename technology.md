@@ -22,17 +22,6 @@ subtitle: Our Technology
   </iframe>
 </div> <div style="clear:both;height:1em;"></div>
 <div>
-  
-  
-<div style="float:left;width:auto;margin-right:10px;"> 
-  <iframe src="https://flimp.me/DL-Footage-Embed?em=Y?t=20&autoplay=1"  webkitallowfullscreen allow="autoplay; encrypted-media" mozallowfullscreen allowfullscreen frameborder="0"  style="width: 360px; height: 325px;">
-  </iframe>
-</div>
-<div style="float:left;width:auto;"> 
-  <iframe src="https://flimp.me/ICG-Embed?em=Y?autoplay=1&loop=1&start=22"  webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder="0"  style="width: 360px; height: 325px;">
-  </iframe>
-</div> <div style="clear:both;height:1em;"></div>
-<div>
 
 <!-- Old Youtube Speckle
 <div style="float:left;width:auto;margin-right:10px;">
