@@ -18,11 +18,10 @@ subtitle: Our Technology
   </iframe>
 </div>
 <div style="float:left;width:auto;"> 
-  <iframe src="https://flimp.me/ICG-Embed?em=Y&autoplay=Y"  webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder="0"  style="width: 360px; height: 325px;">
+  <iframe src="https://flimp.me/ICG-Embed?em=Y&autoplay=y"  webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder="0"  style="width: 360px; height: 325px;">
   </iframe>
 </div> <div style="clear:both;height:1em;"></div>
 <div>
-
 <!-- Old Youtube Speckle
 <div style="float:left;width:auto;margin-right:10px;">
   <iframe src="https://www.youtube.com/embed/BhNg6djiNUo?autoplay=1&loop=1&start=22"
