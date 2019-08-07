@@ -5,7 +5,7 @@ subtitle: Blog
 ---
 <div class="posts-list">
   <article class="post-preview">
-    <a href="/beautiful-jekyll/2015-02-26-flake-it-till-you-make-it/">
+    <a href="/2019-09-07-Elon-Musk.md/">
 	  <h2 class="post-title">Elon Musk and Neuralink</h2>
 	  <h3 class="post-subtitle">
 	    Brain-Machine Interfaces
