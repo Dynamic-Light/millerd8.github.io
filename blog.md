@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dynamic Light
-subtitle: Research Evidence
+subtitle: Blog
 ---
 <div>
     <p style="text-align: center;">
