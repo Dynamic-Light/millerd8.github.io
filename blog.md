@@ -12,10 +12,10 @@ subtitle: Blog
 	  </h3>	    
     </a>
     <p class="post-meta">
-      Posted on February 26, 2015
+      Posted on August 7, 2019
     </p>
     <div class="post-entry">
-      Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who...
+      Elon Musk has been in the press lately for the work his company <a href="https://https://www.neuralink.com"> Neuralink</a> is doing to accelerate the development of brain-machine interfaces (BMIs). BMIs use imaging technology to decode mental and emotional brain states...
 	  <a href="/beautiful-jekyll/2015-02-26-flake-it-till-you-make-it/" class="post-read-more">Read More</a>
     </div>
   
