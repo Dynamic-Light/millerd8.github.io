@@ -34,5 +34,7 @@ subtitle: Our Technology
 
 <h2> Clinical Research Evidence </h2>
 
-Dynamic Light's SpeckleView&trade; technology has years of clinical research evidence to support its utility in the operating room. Back in 2010, Co-founder Andrew Dunn published a seminal <a href="https://foil.bme.utexas.edu/media/papers/10.1117/1.3526368.pdf"> paper</a> demonstrating the ability of Speckle imaging to monitor cerebral blood flow during neurosurgery.
+Dynamic Light's SpeckleView&trade; technology has years of clinical research evidence to support its utility in the operating room. Back in 2010, Co-founder Andrew Dunn published a <a href="https://foil.bme.utexas.edu/media/papers/10.1117/1.3526368.pdf"> seminal paper</a> demonstrating the ability of Speckle imaging to monitor cerebral blood flow during neurosurgery. <br>
+This was followed with a demonstration of Speckle imaging with an <a href="https://foil.bme.utexas.edu/media/papers/10.1117/1.JBO.18.9.090501.pdf"> endoscope</a> 
+ in 2013.
 
