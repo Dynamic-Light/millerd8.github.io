@@ -15,7 +15,7 @@ subtitle: Blog
       Posted on August 7, 2019
     </p>
     <div class="post-entry">
-      Elon Musk has been in the press lately for the work his company <a href="https://https://www.neuralink.com"> Neuralink</a> is doing to accelerate the development of brain-machine interfaces (BMIs). BMIs use imaging technology to decode mental and emotional brain states...
+      Elon Musk has been in the press lately for the work his company <a href="https://www.neuralink.com"> Neuralink</a> is doing to accelerate the development of brain-machine interfaces (BMIs). BMIs use imaging technology to decode mental and emotional brain states...
 	  <a href="/2019-08-07-Elon-Musk/" class="post-read-more">Read More</a>
     </div>
   
