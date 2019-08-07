@@ -29,10 +29,11 @@ avatar: "/img/Dynamic_Light_Square_Logo.png"
 navbar-links:
   Home: ""
   Technology: "technology"
-  #Videos: "videos"
+  Research: "research"
   Events: "events"
+  Blog: "blog"
   About Us: "about"
-  Investors: "investors"
+  #Investors: "investors"
   Contact: "contact"
 
 
