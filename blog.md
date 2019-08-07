@@ -6,9 +6,9 @@ subtitle: Blog
 <div class="posts-list">
   <article class="post-preview">
     <a href="/beautiful-jekyll/2015-02-26-flake-it-till-you-make-it/">
-	  <h2 class="post-title">Flake it till you make it</h2>
+	  <h2 class="post-title">Elon Musk and Neuralink</h2>
 	  <h3 class="post-subtitle">
-	    Excerpt from Soulshaping by Jeff Brown
+	    Brain-Machine Interfaces
 	  </h3>	    
     </a>
     <p class="post-meta">
