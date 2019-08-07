@@ -32,5 +32,5 @@ subtitle: Our Technology
     This comparison serves to demonstrate that Dynamic Light technology provides surgeons with real-time actionable information about blood flow, in this instance that a clot has formed. Our technology is complementary to ICG angiography by offering real-time and continuous blood flow monitoring.
   </p>
 
-Dynamic Light's SpeckleView&trade; technology has years of clinical research evidence to support its utility in the operating room. Back in 2010, Co-founder Andrew Dunn published a seminal <https://foil.bme.utexas.edu/media/papers/10.1117/1.3526368.pdf"> paper</a> demonstrating the ability of Speckle imaging to monitor cerebral blood flow during neurosurgery.
+Dynamic Light's SpeckleView&trade; technology has years of clinical research evidence to support its utility in the operating room. Back in 2010, Co-founder Andrew Dunn published a seminal <a href=https://foil.bme.utexas.edu/media/papers/10.1117/1.3526368.pdf"> paper</a> demonstrating the ability of Speckle imaging to monitor cerebral blood flow during neurosurgery.
 
