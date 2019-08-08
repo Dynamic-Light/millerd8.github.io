@@ -5,9 +5,7 @@ subtitle: Blog
 ---
 
 Coming soon!
-<!--
-
-<div class="posts-list">
+<!--<div class="posts-list">
   <article class="post-preview">
     <a href="/2019-08-07-Elon-Musk/">
 	  <h2 class="post-title">Elon Musk and Neuralink</h2>
@@ -23,6 +21,4 @@ Coming soon!
 	  <a href="/2019-08-07-Elon-Musk/" class="post-read-more">Read More</a>
     </div>
   
-   </article>
-   
-   -->
+   </article> -->
