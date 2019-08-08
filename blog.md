@@ -4,5 +4,9 @@ title: Dynamic Light
 subtitle: Blog
 ---
 
-Coming soon!
+<div>
+    <p style="text-align: center;">
+        Coming soon!
+    </p>
+</div>
 
