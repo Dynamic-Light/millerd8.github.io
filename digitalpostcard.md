@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: base
 ---
 
 <iframe src="https://flimp.me/DL-postcard-embed?em=Y"  webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder="0"  style="width: 1000px; height: 800px;"></iframe>
