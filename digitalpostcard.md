@@ -1,4 +1,5 @@
-<iframe src="https://flimp.me/Dynamic-Light"  webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder="0"  style="width: 1000px; height: 800px;"></iframe>
+<iframe src="https://flimp.me/DL-postcard-embed?em=Y"  webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder="0"  style="width: 1000px; height: 800px;"></iframe>
+
 <!--
 <div>
 	<p align="center">
