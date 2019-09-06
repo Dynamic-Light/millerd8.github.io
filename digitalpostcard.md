@@ -1,8 +1,12 @@
+<iframe src="https://flimp.me/DL-postcard-embed?em=Y"  webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder="0"  style="width: 1000px; height: 800px;"></iframe>
+
+<!--
 <div>
 	<p align="center">
 <iframe src="https://flimp.me/DL-postcard-embed?em=Y"  webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder="0"  style="width: 1000px; height: 800px;"></iframe>
 	</p>
 </div>
+-->
 
 <!--
 <div>
