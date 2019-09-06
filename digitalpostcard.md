@@ -1,3 +1,12 @@
+---
+layout: page
+title: Dynamic Light Test
+subtitle: See blood flow. <br /> No dyes. No waiting.
+#subtitle: The next generation of blood flow imaging. See blood flow when you need to. No dyes. No waiting.
+#fb-img: "/img/Dynamic Light.png"
+#img: /img/Dynamic_Light_Text_Only.png
+---
+
 <iframe src="https://flimp.me/DL-postcard-embed?em=Y"  webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder="0"  style="width: 1000px; height: 800px;"></iframe>
 
 <!--
