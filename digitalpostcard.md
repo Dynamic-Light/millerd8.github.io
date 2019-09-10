@@ -1,8 +1,9 @@
 ---
 layout: none
 ---
-
-<iframe src="https://flimp.me/DL-postcard-embed"  webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder="0"  style="width: 1250px; height: 1000px;"></iframe>
+<div style="text-align:center">
+<iframe src="https://flimp.me/DL-postcard-embed?em=Y"  webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder="0"  style="width: 1000px; height: 750px;"></iframe>
+</div>
 
 <!--
 <div>
