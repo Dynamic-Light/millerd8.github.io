@@ -37,4 +37,3 @@ subtitle: Past Events
   </div>
 </md-list-item>
 
-</div>
