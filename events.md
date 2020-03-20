@@ -8,7 +8,7 @@ subtitle: Past Events
 <h1> 2019 </h1>
 <md-list-item class="md-3-line">
   <div class="md-list-item-text" layout="column">
-        <p> Mar 24: Dynamic Light was selected to pitch in the MedTech Innovator Road Show. </p>
+        <p> Mar 24: Dynamic Light was selected to pitch in the <a href="https://medtechinnovator.org/laravel/application/attendee_book/dc2020"> MedTech Innovator Road Show</a>. </p>
         <p> Dec 12:  Dynamic Light awarded 1st place in the Dongcheng Cup International Pitch Competition, and 3rd place overall in the Grand Final Pitch Competition at Zhongguancun Dongcheng Science Park in Beijing; the awards come with a non-dilutive cash prize and 1 year of rent-free space for 3 people for 1 year at the Dongcheng Science Park facilities. </p>
         <p> Nov 23: Dynamic Light selected for 3rd place award at the <a href="https://v2v-inno.com/"> 2019 V2V Summit & 7th DSCUP International Entrepreneurship Pitch </a> at Northwestern University in Chicigo, IL </p>
         <p> Nov 7: Featured Startup Company at Dell Medical School's Texas Health Catalyst Demo Day 2019 </p>
