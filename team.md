@@ -12,7 +12,7 @@ subtitle: About us
 	<h1> Team </h1>	
 		<div class="item">
     <img src="/img/Len_Pagliaro.png" alt=""/>
-    <p>Len Pagliaro, PhD</p>
+    Len Pagliaro, PhD
   </div>
 		<figure>
 			<img src="/img/Len_Pagliaro.png" alt="Len Pagliaro, PhD" style="width:23%">
