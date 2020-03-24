@@ -11,19 +11,19 @@ subtitle: About us
 			<div id="index-gallery">
   				<div class="item">
     					<img src="/img/Len_Pagliaro.png" alt="" style="height:140px"/>
-					<p>Len Pagliaro, PhD</p>
+					<p>Len Pagliaro PhD</p>
   				</div>
   				<div class="item">
     					<img src="/img/Andrew_Dunn.png" alt="" style="height:140px"/>
-    					<p>Andrew Dunn, PhD</p>
+    					<p>Andrew Dunn PhD</p>
   				</div>
   				<div class="item">
     					<img src="/img/David_Miller.png" alt="" style="height:140px"/>
-    					<p>David Miller, PhD</p>
+    					<p>David Miller PhD</p>
   				</div>
 				<div class="item">
     					<img src="/img/Tony_Manuel.png" alt="" style="height:140px"/>
-    					<p>Tony Manuel, MD, M</p>
+    					<p>Tony Manuel MD MMM</p>
   				</div>
 	</div>
 			<br>	
