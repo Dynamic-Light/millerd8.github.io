@@ -26,27 +26,7 @@ subtitle: About us
     					<img src="/img/Tony_Manuel.png" alt="" style="height:120px"/>
     					<p>Tony Manuel, MD, MMM</p>
   				</div>
-	<center>
-	<h1> Team </h1>	
-		<div style="float:left;width:auto;"> 
-    			<img src="/img/Len_Pagliaro.png" alt="Len Pagliaro, PhD" style="width:23%"/>
-   			 Len Pagliaro, PhD
-			<img src="/img/Andrew_Dunn.png" alt="Andrew Dunn, PhD" style="width:23%"/>
-   			 Andrew Dunn, PhD
-  		</div>
-		<div style="float:left;width:auto;"> 
-    			<img src="/img/Andrew_Dunn.png" alt="Andrew Dunn, PhD" style="width:23%"/>
-   			 Andrew Dunn, PhD
-  		</div>
-		<div class="item">
-    			<img src="/img/David_Miller.png" alt="David Miller, PhD" style="width:70%"/>
-   			 David Miller, PhD
-  		</div>
-		<div class="item">
-    			<img src="/img/Tony_Manuel.png" alt="Tony Manuel, MD, MMM" style="width:70%"/>
-   			 Tony Manuel, MD, MMM
-  		</div>
-	</center>
+				</center>
 			<h2> Len Pagliaro, PhD, CEO and Co-founder </h2>
 Len has 20 years of experience with successful commercialization of biotechnology products, services, and technology licensing. He has managed R&D and business teams, and developed product, service, and technology licensing programs from inception to revenues to profitability in 2 previous biotech startups.  He managed P&L for a business unit of ThermoFisher Scientific, selling tools and services for drug discovery, after successful acquisition of BioImage A/S, a Danish biotech he helped found. Len started commercialization at BioImage from concept to $1M in revenue in 1 year, revenues tripled in each of the following 2 years, and after acquisition and integration by Thermo, his P&L grew to $26M.  A small molecule oncology therapeutic project he led was successfully partnered with TopoTarget and is now in the clinic.  Most recently he co-founded Siva Therapeutics, where he developed a business plan, recruited a management team, assembled a strong and growing IP portfolio, and raised founding capital which included >$1.7 million in grants.
 	<br>	
