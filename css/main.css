@@ -646,7 +646,7 @@ pre {
 }
 
 .item{
-  width:160px;
+  width:180px;
   text-align:center;
   display:block;
   background-color: transparent;
@@ -657,5 +657,5 @@ pre {
 }
 
 #index-gallery{
-  width:800px;
+  width:900px;
 }
