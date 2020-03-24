@@ -13,6 +13,8 @@ subtitle: About us
 		<div style="float:left;width:auto;"> 
     			<img src="/img/Len_Pagliaro.png" alt="Len Pagliaro, PhD" style="width:23%"/>
    			 Len Pagliaro, PhD
+			<img src="/img/Andrew_Dunn.png" alt="Andrew Dunn, PhD" style="width:23%"/>
+   			 Andrew Dunn, PhD
   		</div>
 		<div style="float:left;width:auto;"> 
     			<img src="/img/Andrew_Dunn.png" alt="Andrew Dunn, PhD" style="width:23%"/>
