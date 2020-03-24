@@ -24,7 +24,7 @@ subtitle: About us
   		</div>
 		<div class="item">
     			<img src="/img/Tony_Manuel.png" alt="Tony Manuel, MD, MMM" style="width:70%"/>
-   			 Tony Manuel, MD, MMM"
+   			 Tony Manuel, MD, MMM
   		</div>
 	</center>
 			<h2> Len Pagliaro, PhD, CEO and Co-founder </h2>
