@@ -11,11 +11,11 @@ subtitle: About us
 	<center>
 	<h1> Team </h1>	
 		<div class="item">
-    			<img src="/img/Len_Pagliaro.png" alt=""/>
+    			<img src="/img/Len_Pagliaro.png" alt="Len Pagliaro, PhD" style="width:23%"/>
    			 Len Pagliaro, PhD
   		</div>
 		<div class="item">
-    			<img src="/img/Len_Pagliaro.png" alt=""/>
+    			<img src="/img/Len_Pagliaro.png" alt="Len Pagliaro, PhD" style="width:23%"/>
    			 Len Pagliaro, PhD
   		</div>
 		<figure>
