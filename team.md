@@ -18,12 +18,10 @@ subtitle: About us
     			<img src="/img/Andrew_Dunn.png" alt="Andrew Dunn, PhD" style="width:90%"/>
    			 Andrew Dunn, PhD
   		</div>
-		</div>
 		<div class="item">
     			<img src="/img/David_Miller.png" alt="David Miller, PhD" style="width:90%"/>
    			 David Miller, PhD
   		</div>
-	  	</div>
 		<div class="item">
     			<img src="/img/Tony_Manuel.png" alt="Tony Manuel, MD, MMM" style="width:90%"/>
    			 Tony Manuel, MD, MMM"
