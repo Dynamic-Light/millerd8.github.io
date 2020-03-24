@@ -12,19 +12,16 @@ subtitle: About us
     <img src="/img/Len_Pagliaro.png" alt=""/>
     <p>My Caption here</p>
   </div>
-
   <div class="item">
-    <img src="/img/Len_Pagliaro.png" alt=""/>
+    <img src="/img//img/Andrew_Dunn.png" alt=""/>
     <p>My Caption here</p>
   </div>
-
   <div class="item">
-    <img src="/img/Len_Pagliaro.png" alt=""/>
+    <img src="/img/David_Miller.png" alt=""/>
     <p>My Caption here</p>
   </div>
-
   <div class="item">
-    <img src="/img/Len_Pagliaro.png" alt=""/>
+    <img src="/img/Tony_Manuel.png" alt=""/>
     <p>My Caption here</p>
   </div>
 </div>
