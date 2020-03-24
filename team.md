@@ -13,7 +13,7 @@ subtitle: About us
     <p>Len Pagliaro, PhD</p>
   </div>
   <div class="item">
-    <img src="/img//img/Andrew_Dunn.png" alt=""/>
+    <img src="/img/Andrew_Dunn.png" alt=""/>
     <p>Andrew Dunn, PhD</p>
   </div>
   <div class="item">
