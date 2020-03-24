@@ -23,7 +23,7 @@ subtitle: About us
   				</div>
 				<div class="item">
     					<img src="/img/Tony_Manuel.png" alt="" style="height:145px"/>
-    					<p>Tony Manuel MD MMM</p>
+    					<p>Tony Manuel MD MM</p>
   				</div>
 	</div>
 			<br>	
