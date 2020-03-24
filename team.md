@@ -10,6 +10,10 @@ subtitle: About us
     <p>
 	<center>
 	<h1> Team </h1>	
+		<div class="item">
+    <img src="/img/Len_Pagliaro.png" alt=""/>
+    <p>My Caption here</p>
+  </div>
 		<figure>
 			<img src="/img/Len_Pagliaro.png" alt="Len Pagliaro, PhD" style="width:23%">
   			<figcaption>Len Pagliaro, PhD</figcaption>
