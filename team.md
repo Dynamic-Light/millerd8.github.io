@@ -8,7 +8,7 @@ subtitle: About us
 	Dynamic Light, Inc is based in Austin, Texas and was founded in May 2018. Dynamic Light’s mission is to enable real-time blood flow imaging to improve patient care and lower health care costs.  Our technology supports better decision making by providing physicians continuous, quantitative, and high-resolution visualization of perfusion.
     </p>
 	<center>
-		<h1> Team </h1>	
+		<h1> Team </h1>	</center>
 			<div id="index-gallery">
   				<div class="item">
     					<img src="/img/Len_Pagliaro.png" alt="" style="height:120px"/>
@@ -26,7 +26,6 @@ subtitle: About us
     					<img src="/img/Tony_Manuel.png" alt="" style="height:120px"/>
     					<p>Tony Manuel, MD, MMM</p>
   				</div>
-				</center>
 			<h2> Len Pagliaro, PhD, CEO and Co-founder </h2>
 Len has 20 years of experience with successful commercialization of biotechnology products, services, and technology licensing. He has managed R&D and business teams, and developed product, service, and technology licensing programs from inception to revenues to profitability in 2 previous biotech startups.  He managed P&L for a business unit of ThermoFisher Scientific, selling tools and services for drug discovery, after successful acquisition of BioImage A/S, a Danish biotech he helped found. Len started commercialization at BioImage from concept to $1M in revenue in 1 year, revenues tripled in each of the following 2 years, and after acquisition and integration by Thermo, his P&L grew to $26M.  A small molecule oncology therapeutic project he led was successfully partnered with TopoTarget and is now in the clinic.  Most recently he co-founded Siva Therapeutics, where he developed a business plan, recruited a management team, assembled a strong and growing IP portfolio, and raised founding capital which included >$1.7 million in grants.
 	<br>	
