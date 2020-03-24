@@ -34,7 +34,6 @@ Andrew is the Director of the Center for Emerging Imaging Technologies and is a 
 	<br>
 			<h2> David Miller, PhD, CTO and Co-founder </h2>
 David has been involved in the development of speckle imaging technologies in Andrew's laboratory, and has played a key role in the formation of Dynamic Light. David participated in the Texas Health Catalyst accelerator program and the National Science Foundation Regional Innovation Corps (I-Corps) program. David leads the ongoing clinical studies, and further development of speckle imaging technology.
-    </p>
     	<h1> Directors </h1>
 			<h2> Tony Manuel, MD, MMM </h2>
 Tony servies as an anesthesiologist with the Capital Anesthesiology Association, and holds leadership positions including President of the Network Medical Staff, Seton Healthcare Family of Hospitals in Austin, and Chair of the Department Faculty Council at University of Texas Dell Medical School in Austin. Tony received his MD degree from the University of Texas Health Science Center in Houston, and more recently a Master’s in Medical Management from Carnegie Mellon University in Pittsburgh.    
