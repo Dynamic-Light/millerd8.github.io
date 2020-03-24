@@ -13,8 +13,9 @@ subtitle: About us
 		<figure>
 			<img src="/img/Len_Pagliaro.png" alt="Len Pagliaro, PhD" style="width:23%">
   			<figcaption>Len Pagliaro, PhD</figcaption>
+			<img src="/img/Andrew_Dunn.png" alt="Andrew Dunn, PhD" style="width:23%">
+  			<figcaption>Andrew Dunn, PhD</figcaption>
 		</figure>
-<img src="/img/Andrew_Dunn.png" alt="Andrew Dunn, PhD" style="width:23%">
 <img src="/img/David_Miller.png" alt="David Miller, PhD" style="width:23%">
 <img src="/img/Tony_Manuel.png" alt="Tony Manuel, MD, MMM" style="width:23%">
 	</center>
