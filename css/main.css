@@ -646,16 +646,16 @@ pre {
 }
 
 .item{
-  width:175px;
+  width:200px;
   text-align:center;
   display:block;
   background-color: transparent;
   border: 1px solid transparent;
-  margin-right: 3px;
-  margin-bottom: 1px;
+  margin-right: 1px;
+  margin-bottom: 0px;
   float:left;
 }
 
 #index-gallery{
-  width:465px;
+  width:600px;
 }
