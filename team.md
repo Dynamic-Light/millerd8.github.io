@@ -11,12 +11,12 @@ subtitle: About us
 	<center>
 	<h1> Team </h1>	
 		<div class="item">
-    			<img src="/img/Len_Pagliaro.png" alt="Len Pagliaro, PhD" style="width:23%"/>
+    			<img src="/img/Len_Pagliaro.png" alt="Len Pagliaro, PhD" style="width:75%"/>
    			 Len Pagliaro, PhD
   		</div>
 		<div class="item">
-    			<img src="/img/Len_Pagliaro.png" alt="Len Pagliaro, PhD" style="width:23%"/>
-   			 Len Pagliaro, PhD
+    			<img src="/img/Andrew_Dunn.png" alt="Andrew Dunn, PhD" style="width:75%"/>
+   			 Andrew Dunn, PhD
   		</div>
 		<figure>
 			<img src="/img/Len_Pagliaro.png" alt="Len Pagliaro, PhD" style="width:23%">
