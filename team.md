@@ -11,7 +11,7 @@ subtitle: About us
 			<div id="index-gallery">
   				<div class="item">
     					<img src="/img/Len_Pagliaro.png" alt="" style="height:140px"/>
-    					Len Pagliaro, PhD
+					<p>Len Pagliaro, PhD</p>
   				</div>
   				<div class="item">
     					<img src="/img/Andrew_Dunn.png" alt="" style="height:140px"/>
