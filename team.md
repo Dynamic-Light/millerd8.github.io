@@ -26,7 +26,6 @@ subtitle: About us
     					<img src="/img/Tony_Manuel.png" alt="" style="height:120px"/>
     					<p>Tony Manuel, MD, MMM</p>
   				</div>
-	</center>
 	<center>
 	<h1> Team </h1>	
 		<div style="float:left;width:auto;"> 
