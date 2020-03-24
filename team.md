@@ -9,6 +9,9 @@ subtitle: About us
     </p>
 	
 <img src="/img/Len_Pagliaro.png" alt="Len Pagliaro, PhD" style="width:128px;height:128px;">
+<img src="/img/Andrew_Dunn.png" alt="Andrew Dunn, PhD" style="width:128px;height:128px;">
+<img src="/img/David_Miller.png" alt="David Miller, PhD" style="width:128px;height:128px;">
+<img src="/img/Tony_Manuel.png" alt="Tony Manuel, MD, MMM" style="width:128px;height:128px;">
     <p>
 	<h1> Team </h1>
 			<h2> Len Pagliaro, PhD, CEO and Co-founder </h2>
