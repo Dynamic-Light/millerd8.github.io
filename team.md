@@ -7,15 +7,30 @@ subtitle: About us
 <p>
 	Dynamic Light, Inc is based in Austin, Texas and was founded in May 2018. Dynamic Light’s mission is to enable real-time blood flow imaging to improve patient care and lower health care costs.  Our technology supports better decision making by providing physicians continuous, quantitative, and high-resolution visualization of perfusion.
     </p>
+	<div id="index-gallery">
+  <div class="item">
+    <img src="/img/Len_Pagliaro.png" alt=""/>
+    <p>My Caption here</p>
+  </div>
+
+  <div class="item">
+    <img src="/img/Len_Pagliaro.png" alt=""/>
+    <p>My Caption here</p>
+  </div>
+
+  <div class="item">
+    <img src="/img/Len_Pagliaro.png" alt=""/>
+    <p>My Caption here</p>
+  </div>
+
+  <div class="item">
+    <img src="/img/Len_Pagliaro.png" alt=""/>
+    <p>My Caption here</p>
+  </div>
+</div>
     <p>
 	<center>
 	<h1> Team </h1>	
-		<ul>
-			<li><img src="/img/Len_Pagliaro.png" alt="Len Pagliaro, PhD" style="width:23%">
-				<p>Len Pagliaro, PhD</p></li>
-			<li><img src="/img/Andrew_Dunn.png" alt="Andrew Dunn, PhD" style="width:23%">
-				<p>Andrew Dunn, PhD</p></li>
-		</ul>
 		<div style="float:left;width:auto;"> 
     			<img src="/img/Len_Pagliaro.png" alt="Len Pagliaro, PhD" style="width:23%"/>
    			 Len Pagliaro, PhD
