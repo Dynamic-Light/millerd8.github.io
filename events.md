@@ -9,6 +9,7 @@ subtitle: Past Events
 <md-list-item class="md-3-line">
       <div class="md-list-item-text" layout="column">
         <p> Mar 24: Dynamic Light was selected to pitch in the <a href="https://medtechinnovator.org/laravel/application/attendee_book/dc2020"> MedTech Innovator Road Show</a> </p>
+        <p> Feb 18: Dynamic Light's CEO Dr. Len Pagliaro  participated in the <a href="https://www.sachsforum.com/ehtf-about.html"> European HealthTech CEO Forum </a> in Zurich, Switzerland. </p>
         </div>
  
 <h1> 2019 </h1>
