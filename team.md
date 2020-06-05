@@ -13,19 +13,18 @@ subtitle: About us
 				<div class="item">
     					<img src="/img/Len_Pagliaro.png" alt="" style="width:175px;height:175px"/>
 					Len Pagliaro, PhD <br> CEO
-					<p>Len Pagliaro PhD <br> CEO </p>
   				</div>
   				<div class="item">
     					<img src="/img/Andrew_Dunn.png" alt="" style="width:175px;height:175px"/>
-    					<p>Andrew Dunn PhD <br> CSO </p>
+    					Andrew Dunn PhD <br> CSO
   				</div>
   				<div class="item">
     					<img src="/img/David_Miller.png" alt="" style="width:175px;height:175px"/>
-    					<p>David Miller PhD <br> CTO </p>
+    					David Miller PhD <br> CTO
   				</div>
 				 <div class="item">
     					<img src="/img/MatthewMalcolm_full.png" alt="" style="width:175px;height:175px"/>
-    					<p>Matthew Malcolm <br> vCFO </p>
+    					Matthew Malcolm <br> vCFO
   				</div>
 			</div> 
 		</center> 
