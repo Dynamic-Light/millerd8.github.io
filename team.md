@@ -17,11 +17,11 @@ subtitle: About us
   				</div>
   				<div class="item">
     					<img src="/img/Andrew_Dunn.png" alt="" style="width:175px;height:175px"/>
-    					<p>Andrew Dunn PhD</p> <p> CSO </p>
+    					<p>Andrew Dunn PhD <br> CSO </p>
   				</div>
   				<div class="item">
     					<img src="/img/David_Miller.png" alt="" style="width:175px;height:175px"/>
-    					<p>David Miller PhD</p> <p> CTO </p>
+    					<p>David Miller PhD <br> CTO </p>
   				</div>
 			</div> </center> </p> 
 	<br/>
