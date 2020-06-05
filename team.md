@@ -35,7 +35,7 @@ subtitle: About us
 			<div id="index-gallery;width=auto;">
   				<div class="item">
     					<img src="/img/TonyManuelFinal_V2.png" alt="" style="width:160px;height:170px"/>
-    					Tony Manuel MD
+					<small> Tony Manuel MD MMM </small>
   				</div>
 				<div class="item">
     					<img src="/img/JamesBrown_V1.png" alt="" style="width:160px;height:170px"/>
