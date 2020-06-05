@@ -24,7 +24,7 @@ subtitle: About us
   				</div>
 			</div>
 		</center> </p>
-		<center> <h1> Baord of Directors </h1> 
+		<center> <h1> Board of Directors </h1> 
 			<div id="index-gallery;width=auto;">
   				<div class="item">
     					<img src="/img/TonyManuelFinal.jpg" alt="" style="height:145px"/>
