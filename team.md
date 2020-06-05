@@ -38,7 +38,7 @@ subtitle: About us
   				</div>
 				<div class="item">
     					<img src="/img/JamesBrownprofilephoto.jpg" alt="" style="width:160px;height:170px"/>
-					Jim Brown III JD MBA
+					Jim Brown JD MBA
   				</div>
   				<div class="item">
     					<img src="/img/HollowayPortrait2020Cropped.jpg" alt="" style="width:185px;height:170px"/>
