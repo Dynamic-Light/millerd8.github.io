@@ -37,7 +37,7 @@ subtitle: About us
     					Tony Manuel MD
   				</div>
 				<div class="item">
-    					<img src="/img/JamesBrownprofilephoto.jpg" alt="" style="width:170px;height:170px"/>
+    					<img src="/img/JamesBrownprofilephoto.jpg" alt="" style="width:160px;height:170px"/>
 					Jim Brown III JD MBA
   				</div>
   				<div class="item">
