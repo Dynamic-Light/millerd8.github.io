@@ -23,7 +23,7 @@ subtitle: About us
     					David Miller PhD <br> CTO
   				</div>
 				 <div class="item">
-    					<img src="/img/MatthewMalcolm_cropped.png" alt="" style="width:170px;height:170px"/>
+    					<img src="/img/MatthewMalcolm_cropped.png" alt="" style="width:167px;height:167px"/>
     					Matthew Malcolm <br> vCFO
   				</div>
 			</div> 
