@@ -12,6 +12,7 @@ subtitle: About us
 			<div id="index-gallery;width=auto;">
 				<div class="item">
     					<img src="/img/Len_Pagliaro.png" alt="" style="width:175px;height:175px"/>
+					Len Pagliaro, PhD <br> CEO
 					<p>Len Pagliaro PhD <br> CEO </p>
   				</div>
   				<div class="item">
