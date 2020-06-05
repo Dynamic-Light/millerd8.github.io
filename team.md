@@ -14,10 +14,12 @@ subtitle: About us
     					<img src="/img/Len_Pagliaro.png" alt="" style="width:200px;height:200px"/>
 					<p>Len Pagliaro PhD</p>
   				</div>
+				&nbsp &nbsp &nbsp &nbsp &nbsp
   				<div class="item">
     					<img src="/img/Andrew_Dunn.png" alt="" style="width:200px;height:200px"/>
     					<p>Andrew Dunn PhD</p>
   				</div>
+				&nbsp
   				<div class="item">
     					<img src="/img/David_Miller.png" alt="" style="width:200px;height:200px"/>
     					<p>David Miller PhD</p>
