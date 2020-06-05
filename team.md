@@ -46,7 +46,7 @@ subtitle: About us
     					<small> Jean Holloway JD MBA </small>
   				</div>
   				<div class="item">
-    					<img src="/img/BobTeague_cropped_V3.png" alt="" style="width:170px;height:170px"/>
+    					<img src="/img/BobTeague_cropped_V3.png" alt="" style="width:160px;height:170px"/>
     					Bob Teague MD
   				</div>
 			</div>
