@@ -22,8 +22,8 @@ subtitle: About us
     					<img src="/img/David_Miller.png" alt="" style="height:175px"/>
     					<p>David Miller PhD</p>
   				</div>
-			</div>
-		</center> </p> <br/>
+			</div> </center> </p> <br/>
+	
 		<center> <h1> Board of Directors </h1> 
 			<div id="index-gallery;width=auto;">
   				<div class="item">
