@@ -24,7 +24,6 @@ subtitle: About us
     					<p>David Miller PhD <br> CTO </p>
   				</div>
 			</div> </center> </p> 
-	<br/>
 		<div style="clear:both;height:1em;"></div>
 	<p>
 		<center> <h1> Board of Directors </h1> 
