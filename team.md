@@ -11,19 +11,19 @@ subtitle: About us
 		<center> <h1> Leadership </h1> 
 			<div id="index-gallery;width=auto;">
 				<div class="item">
-    					<img src="/img/Len_Pagliaro.png" alt="" style="width:175px;height:175px"/>
+    					<img src="/img/Len_Pagliaro.png" alt="" style="width:170px;height:170px"/>
 					Len Pagliaro, PhD <br> CEO
   				</div>
   				<div class="item">
-    					<img src="/img/Andrew_Dunn.png" alt="" style="width:175px;height:175px"/>
+    					<img src="/img/Andrew_Dunn.png" alt="" style="width:170px;height:170px"/>
     					Andrew Dunn PhD <br> CSO
   				</div>
   				<div class="item">
-    					<img src="/img/David_Miller.png" alt="" style="width:175px;height:175px"/>
+    					<img src="/img/David_Miller.png" alt="" style="width:170px;height:170px"/>
     					David Miller PhD <br> CTO
   				</div>
 				 <div class="item">
-    					<img src="/img/MatthewMalcolm_cropped.png" alt="" style="width:160px;height:160px"/>
+    					<img src="/img/MatthewMalcolm_cropped.png" alt="" style="width:170px;height:170px"/>
     					Matthew Malcolm <br> vCFO
   				</div>
 			</div> 
