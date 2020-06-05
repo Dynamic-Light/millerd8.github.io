@@ -25,6 +25,10 @@ subtitle: About us
     					<img src="/img/David_Miller.png" alt="" style="width:175px;height:175px"/>
     					<p>David Miller PhD <br> CTO </p>
   				</div>
+				  <div class="item">
+    					<img src="/img/MatthewMalcolm.png" alt="" style="width:175px;height:175px"/>
+    					<p>Matthew Malcolm CFA <br> vCFO </p>
+  				</div>
 			</div> 
 		</center> 
 	<p>
