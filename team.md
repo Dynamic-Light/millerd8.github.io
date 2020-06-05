@@ -42,7 +42,7 @@ subtitle: About us
   				</div>
   				<div class="item">
     					<img src="/img/HollowayPortrait2020Cropped.jpg" alt="" style="width:195px;height:170px"/>
-    					<small> Jean Holloway JD MBA <small>
+    					<small> Jean Holloway JD MBA </small>
   				</div>
   				<div class="item">
     					<img src="/img/BobTeague_cropped.jpg" alt="" style="width:150px;height:170px"/>
