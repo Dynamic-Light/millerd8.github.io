@@ -23,7 +23,7 @@ subtitle: About us
     					<p>David Miller PhD</p>
   				</div>
 			</div>
-		</center> </p> </br>
+		</center> </p> <br/>
 		<center> <h1> Board of Directors </h1> 
 			<div id="index-gallery;width=auto;">
   				<div class="item">
