@@ -10,9 +10,6 @@ subtitle: About us
 	<p> 
 		<center> <h1> Leadership </h1> 
 			<div id="index-gallery;width=auto;">
-				<div>
-					<span style="display:inline-block; width:100px;"></span>
-				</div>
 				<div class="item">
     					<img src="/img/Len_Pagliaro.png" alt="" style="width:175px;height:175px"/>
 					<p>Len Pagliaro PhD <br> CEO </p>
