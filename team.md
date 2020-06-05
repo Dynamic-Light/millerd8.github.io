@@ -33,7 +33,7 @@ subtitle: About us
 		<center> <h1> Board of Directors </h1> 
 			<div id="index-gallery;width=auto;">
   				<div class="item">
-    					<img src="/img/TonyManuelFinal.jpg" alt="" style="width:160px;height:170px"/>
+    					<img src="/img/TonyManuelFinal.jpg" alt="" style="width:140px;height:170px"/>
     					Tony Manuel MD
   				</div>
 				<div class="item">
@@ -41,7 +41,7 @@ subtitle: About us
 					Jim Brown III JD MBA
   				</div>
   				<div class="item">
-    					<img src="/img/HollowayPortrait2020.jpg" alt="" style="width:160px;height:170px"/>
+    					<img src="/img/HollowayPortrait2020.jpg" alt="" style="width:140px;height:170px"/>
     					Jean Holloway JD MBA
   				</div>
   				<div class="item">
