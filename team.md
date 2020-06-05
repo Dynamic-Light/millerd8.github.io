@@ -29,8 +29,6 @@ subtitle: About us
 			</div> 
 		</center> 
 	<p>
-		<div style="clear:both;height:1em;"></div>
-	<p>
 		<center> <h1> Board of Directors </h1> 
 			<div id="index-gallery;width=auto;">
   				<div class="item">
