@@ -11,15 +11,15 @@ subtitle: About us
 	<center> <h1> Leadership </h1> 
 			<div id="index-gallery;width=auto;">
   				<div class="item">
-    					<img src="/img/Len_Pagliaro.png" alt="" style="height:155px"/>
+    					<img src="/img/Len_Pagliaro.png" alt="" style="height:175px"/>
 					<p>Len Pagliaro PhD</p>
   				</div>
   				<div class="item">
-    					<img src="/img/Andrew_Dunn.png" alt="" style="height:155px"/>
+    					<img src="/img/Andrew_Dunn.png" alt="" style="height:175px"/>
     					<p>Andrew Dunn PhD</p>
   				</div>
   				<div class="item">
-    					<img src="/img/David_Miller.png" alt="" style="height:155px"/>
+    					<img src="/img/David_Miller.png" alt="" style="height:175px"/>
     					<p>David Miller PhD</p>
   				</div>
 			</div>
