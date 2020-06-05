@@ -41,7 +41,7 @@ subtitle: About us
 					Jim Brown III JD MBA
   				</div>
   				<div class="item">
-    					<img src="/img/HollowayPortrait2020Cropped.jpg" alt="" style="width:160px;height:170px"/>
+    					<img src="/img/HollowayPortrait2020Cropped.jpg" alt="" style="width:175px;height:170px"/>
     					Jean Holloway JD MBA
   				</div>
   				<div class="item">
