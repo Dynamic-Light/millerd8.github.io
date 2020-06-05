@@ -19,7 +19,7 @@ subtitle: About us
     					Andrew Dunn PhD <br> CSO
   				</div>
   				<div class="item">
-    					<img src="/img/DavidMiller_V2.png" alt="" style="width:170px;height:170px"/>
+    					<img src="/img/David_Miller.png" alt="" style="width:170px;height:170px"/>
     					David Miller PhD <br> CTO
   				</div>
 				<div class="item">
