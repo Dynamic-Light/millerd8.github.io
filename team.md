@@ -28,6 +28,7 @@ subtitle: About us
   				</div>
 			</div> 
 		</center>
+	</p>
 			<div style="clear:both;height:0.2em;"></div>
 	<p>
 		<center> <h1> Board of Directors </h1> 
