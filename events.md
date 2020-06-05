@@ -8,6 +8,7 @@ subtitle: Past Events
 <h1> 2020 </h1>
 <md-list-item class="md-3-line">
       <div class="md-list-item-text" layout="column">
+        <p> May 23: We are thrilled to announce the expansion of the Dynamic Light Board of Directors with <a href="https://www.linkedin.com/in/james-earl-brown-iii-3a54162b/"> James Earl Brown III JD MBA</a>, <a href="https://www.linkedin.com/in/jean-h-830403/"> Jean Holloway JD MBA</a>, and <a href="https://www.linkedin.com/in/bob-teague-486b1/"> Bob Teague MD</a> along with our founding board member <a href="https://www.linkedin.com/in/tony-manuel-md/"> Tony Manuel MD MMM. </p> 
         <p> Mar 24: Dynamic Light was selected to pitch in the <a href="https://medtechinnovator.org/laravel/application/attendee_book/dc2020"> MedTech Innovator Road Show</a> </p>
         <p> Feb 18: Dynamic Light's CEO Dr. Len Pagliaro  participated in the <a href="https://www.sachsforum.com/ehtf-about.html"> European HealthTech CEO Forum </a> in Zurich, Switzerland. </p>
         </div>
