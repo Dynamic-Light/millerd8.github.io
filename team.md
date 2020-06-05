@@ -22,8 +22,8 @@ subtitle: About us
     					<img src="/img/David_Miller.png" alt="" style="width:170px;height:170px"/>
     					David Miller PhD <br> CTO
   				</div>
-				 <div class="item">
-    					<img src="/img/MatthewMalcolm_cropped.png" alt="" style="width:167px;height:167px"/>
+				<div class="item">
+    					<img src="/img/MatthewMalcolm_cropped.png" alt="" style="width:160px;height:167px"/>
     					Matthew Malcolm <br> vCFO
   				</div>
 			</div> 
@@ -48,7 +48,7 @@ subtitle: About us
     					<img src="/img/BobTeague_cropped.jpg" alt="" style="width:150px;height:170px"/>
     					Bob Teague MD
   				</div>
-	</div>
+			</div>
 		</center> </p>
 	<div style="clear:both;height:1em;"></div>
 			<h2> Len Pagliaro, PhD, CEO, and Co-founder </h2>
