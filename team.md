@@ -33,20 +33,20 @@ subtitle: About us
 		<center> <h1> Board of Directors </h1> 
 			<div id="index-gallery;width=auto;">
   				<div class="item">
-    					<img src="/img/TonyManuelFinal.jpg" alt="" style="height:175px"/>
-    					<p>Tony Manuel MD MMM</p>
+    					<img src="/img/TonyManuelFinal.jpg" alt="" style="width:170px;height:170px"/>
+    					Tony Manuel MD MMM
   				</div>
 				<div class="item">
-    					<img src="/img/JamesBrownprofilephoto.jpg" alt="" style="height:175px"/>
-					<p>James Earl Brown III JD MBA</p>
+    					<img src="/img/JamesBrownprofilephoto.jpg" alt="" style="width:170px;height:170px"/>
+					Jim Brown III JD MBA
   				</div>
   				<div class="item">
-    					<img src="/img/HollowayPortrait2020.jpg" alt="" style="height:175px"/>
-    					<p>Jean Holloway JD MBA</p>
+    					<img src="/img/HollowayPortrait2020.jpg" alt="" style="width:170px;height:170px"/>
+    					Jean Holloway JD MBA
   				</div>
   				<div class="item">
-    					<img src="/img/BobTeague.jpg" alt="" style="height:175px"/>
-    					<p>Bob Teague MD</p>
+    					<img src="/img/BobTeague.jpg" alt="" style="width:170px;height:170px"/>
+    					Bob Teague MD
   				</div>
 	</div>
 		</center> </p>
