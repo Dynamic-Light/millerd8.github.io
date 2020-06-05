@@ -34,7 +34,7 @@ subtitle: About us
 		<center> <h1> Board of Directors </h1> 
 			<div id="index-gallery;width=auto;">
   				<div class="item">
-    					<img src="/img/TonyManuelFinal_V2.png" alt="" style="width:150px;height:170px"/>
+    					<img src="/img/TonyManuelFinal_V2.png" alt="" style="width:160px;height:170px"/>
     					Tony Manuel MD
   				</div>
 				<div class="item">
@@ -46,7 +46,7 @@ subtitle: About us
     					<small> Jean Holloway JD MBA </small>
   				</div>
   				<div class="item">
-    					<img src="/img/BobTeague_cropped_V2.png" alt="" style="width:150px;height:170px"/>
+    					<img src="/img/BobTeague_cropped_V2.png" alt="" style="width:160px;height:170px"/>
     					Bob Teague MD
   				</div>
 			</div>
