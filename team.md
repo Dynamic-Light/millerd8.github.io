@@ -13,7 +13,7 @@ subtitle: About us
 				<hr/>
   				<div class="item">
     					<img src="/img/Len_Pagliaro.png" alt="" style="width:175px;height:175px"/>
-					<p>Len Pagliaro PhD</p> <p> CEO </p>
+					<p>Len Pagliaro PhD <br> CEO </p>
   				</div>
   				<div class="item">
     					<img src="/img/Andrew_Dunn.png" alt="" style="width:175px;height:175px"/>
