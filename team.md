@@ -12,7 +12,7 @@ subtitle: About us
 			<div id="index-gallery;width=auto;">
 				<div class="item">
     					<img src="/img/JamesBrown_V1.png" alt="" style="width:170px;height:170px"/>
-					Jim Brown JD MBA
+					Jim Brown JD MBA <br> CEO
   				</div>
   				<div class="item">
     					<img src="/img/Andrew_Dunn.png" alt="" style="width:170px;height:170px"/>
@@ -30,12 +30,12 @@ subtitle: About us
 		<center> <h1> Board of Directors </h1> 
 			<div id="index-gallery;width=auto;">
   				<div class="item">
-    					<img src="/img/TonyManuelFinal_V2.png" alt="" style="width:160px;height:170px"/>
-					<small> Tony Manuel MD MMM </small>
-  				</div>
-				<div class="item">
     					<img src="/img/JamesBrown_V1.png" alt="" style="width:160px;height:170px"/>
 					Jim Brown JD MBA
+  				</div>
+				<div class="item">
+    					<img src="/img/TonyManuelFinal_V2.png" alt="" style="width:160px;height:170px"/>
+					<small> Tony Manuel MD MMM </small>
   				</div>
   				<div class="item">
     					<img src="/img/HollowayPortrait2020Cropped_V2.png" alt="" style="width:175px;height:170px"/>
