@@ -19,8 +19,12 @@ subtitle: About us
     					Andrew Dunn PhD <br> CSO
   				</div>
 				<div class="item">
+    					<img src="/img/Sandeep.png" alt="" style="width:160px;height:170px"/>
+    					Sandeep Gupta MS <br> CTO
+  				</div>
+				<div class="item">
     					<img src="/img/MatthewMalcolm_V1.png" alt="" style="width:160px;height:170px"/>
-    					Matthew Malcolm <br> vCFO
+    					Matthew Malcolm <br> CFO
   				</div>
 			</div> 
 		</center>
@@ -54,7 +58,9 @@ Jim brings industry domain expertise and a successful investment track record in
 			<h2> Andrew Dunn, PhD, CSO, and Co-founder </h2>
 Andrew is the Director of the Center for Emerging Imaging Technologies and is a Professor in the Biomedical Engineering Department of The University of Texas at Austin.  Andrew's research is focused on developing novel optical imaging techniques for imaging brain function.  His laboratory integrates innovative photonics and computational techniques and applies them to research questions in areas such as stroke, migraine, functional mapping during neurosurgery, and Alzheimer’s disease. One of the techniques Andrew has developed is laser speckle contrast imaging of blood flow, which he has used to dynamically image the cerebral blood flow changes during stroke, migraine and normal brain activation.  Andrew works closely with neuroscientists, neurologists, and neurosurgeons in the application of these imaging techniques to various problems related to brain function. He is a founder of, and leader in, the field of laser speckle imaging and, in particular, implementation of continuous, real-time, high resolution speckle imaging enabled by sophisticated proprietary algorithms and software libraries.  Andrew and his laboratory team have authored many of the seminal papers in the field, and have conducted human clinical trials with his technologies, as well as extensive animal studies.
 	<br>
-			<h2> Matthew Malcolm, vCFO </h2>
+			<h2> Sandeep Gupta, MS, CTO </h2>
+Sandeep is a seasoned technology and business development executive with a successful track record in leadership, strategy, and customer success. Sandeep subscribes to the philosophy that short cycles of innovation (measuring and iterating quickly) is key to success. 
+			<h2> Matthew Malcolm, CFO </h2>
 Matthew is an experienced CFO for fast growing companies, performing this role over 14 years for three companies and now as Virtual CFO for multiple clients, including Dynamic Light. He has deep financial experience and excels at leading administrative teams within rapidly evolving organizations. He co-founded a successful energy trading company, raised $14 million in venture funding, and managed a multi-billion dollar portfolio at a top-tier Wall Street investment bank. Matthew has a Masters in Economics from New York University and is a Chartered Financial Analyst (CFA). 
 			<h2> Tony Manuel, MD, MMM </h2>
 Tony servies as an anesthesiologist with the Capital Anesthesiology Association, and holds leadership positions including President of the Network Medical Staff, Seton Healthcare Family of Hospitals in Austin, and Chair of the Department Faculty Council at University of Texas Dell Medical School in Austin. Tony received his MD degree from the University of Texas Health Science Center in Houston, and more recently a Master’s in Medical Management from Carnegie Mellon University in Pittsburgh.
