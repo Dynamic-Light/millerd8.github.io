@@ -15,15 +15,15 @@ subtitle: About us
 					Jim Brown JD MBA <br> CEO
   				</div>
   				<div class="item">
-    					<img src="/img/Andrew_Dunn.png" alt="" style="width:170px;height:170px"/>
+    					<img src="/img/Andrew_Dunn.png" alt="" style="width:170px;height:180px"/>
     					Andrew Dunn PhD <br> CSO
   				</div>
 				<div class="item">
-    					<img src="/img/Sandeep.png" alt="" style="width:160px;height:170px"/>
+    					<img src="/img/Sandeep.png" alt="" style="width:170px;height:170px"/>
     					Sandeep Gupta MS <br> CTO
   				</div>
 				<div class="item">
-    					<img src="/img/MatthewMalcolm_V1.png" alt="" style="width:160px;height:170px"/>
+    					<img src="/img/MatthewMalcolm_V1.png" alt="" style="width:170px;height:180px"/>
     					Matthew Malcolm <br> CFO
   				</div>
 			</div> 
