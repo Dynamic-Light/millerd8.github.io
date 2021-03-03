@@ -19,7 +19,7 @@ subtitle: About us
     					Andrew Dunn PhD <br> CSO
   				</div>
 				<div class="item">
-    					<img src="/img/Sandeep.png" alt="" style="width:170px;height:170px"/>
+    					<img src="/img/Sandeep.png" alt="" style="width:160px;height:170px"/>
     					Sandeep Gupta MS <br> CTO
   				</div>
 				<div class="item">
