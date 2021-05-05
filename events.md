@@ -17,7 +17,7 @@ subtitle: Past Events
 <md-list-item class="md-3-line">
   <div class="md-list-item-text" layout="column">
         <p> Dec 12:  Dynamic Light awarded 1st place in the Dongcheng Cup International Pitch Competition, and 3rd place overall in the Grand Final Pitch Competition at Zhongguancun Dongcheng Science Park in Beijing; the awards come with a non-dilutive cash prize and 1 year of rent-free space for 3 people for 1 year at the Dongcheng Science Park facilities. </p>
-        <p> Nov 23: Dynamic Light selected for 3rd place award at the <a href="https://v2v-inno.com/"> 2019 V2V Summit & 7th DSCUP International Entrepreneurship Pitch </a> at Northwestern University in Chicigo, IL </p>
+        <p> Nov 23: Dynamic Light selected for 3rd place award at the <a href="https://v2v-inno.com/"> 2019 V2V Summit & 7th DSCUP International Entrepreneurship Pitch </a> at Northwestern University in Chicago, IL </p>
         <p> Nov 7: Featured Startup Company at Dell Medical School's Texas Health Catalyst Demo Day 2019 </p>
         <p> Sep 18: <a href="http://americanphilanthropicventures.org/2019/07/apva-houston-investor-networking-event-september-18/"> Enterprise Pitch and Investor Networking Event </a> in Houston, TX hosted by Starlight Capital and American Philanthropic Ventures Association </p>
     <p> Sep 10: <a href="https://competition.mybiogate.com/9-10-boston-preliminary/"> MyBioGate Global Healthcare Innovation Competition </a> as part of <a href="https://events.mybiogate.com/biotechweekboston/"> China Focus @ Biotech Week Boston </a> <a href="https://finance.yahoo.com/news/mybiogate-global-healthcare-innovation-competition-200000422.html"> (Received 3rd place) </a> </p> 
