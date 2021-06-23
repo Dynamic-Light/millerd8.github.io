@@ -33,10 +33,6 @@ subtitle: About us
 	<p>
 		<center> <h1> Board of Directors </h1> 
 			<div id="index-gallery;width=auto;">
-  				<div class="item">
-    					<img src="/img/JamesBrown_V1.png" alt="" style="width:160px;height:170px"/>
-					Jim Brown JD MBA
-  				</div>
 				<div class="item">
     					<img src="/img/TonyManuelFinal_V2.png" alt="" style="width:160px;height:170px"/>
 					<small> Tony Manuel MD MMM </small>
@@ -48,6 +44,10 @@ subtitle: About us
   				<div class="item">
     					<img src="/img/BobTeague_cropped_V3.png" alt="" style="width:160px;height:170px"/>
     					Bob Teague MD
+  				</div>
+				<div class="item">
+    					<img src="/img/Andrew_Dunn.png" alt="" style="width:170px;height:170px"/>
+    					Andrew Dunn PhD <br> CSO
   				</div>
 			</div>
 		</center> </p>
