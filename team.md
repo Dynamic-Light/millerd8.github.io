@@ -20,7 +20,7 @@ subtitle: About us
   				</div>
 				<div class="item">
     					<img src="/img/DavidMillerHeadshot.jpg" alt="" style="width:170px;height:170px"/>
-    					David Miller <br> VP PM&E
+    					David Miller <br> VP PM & Eng
   				</div>
 				<div class="item">
     					<img src="/img/pb_headshot.jpg" alt="" style="width:170px;height:170px"/>
