@@ -19,7 +19,7 @@ subtitle: About us
     					Sandeep Gupta MS <br> CTO
   				</div>
 				<div class="item">
-    					<img src="/img/DavidMillerHeadshot.jpg" alt="" style="width:170px;height:170px"/>
+    					<img src="/img/DavidMillerHeadshot.jpg" alt="" style="width:160px;height:170px"/>
     					David Miller <br> VP PM & Eng
   				</div>
 				<div class="item">
