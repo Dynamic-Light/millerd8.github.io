@@ -10,10 +10,6 @@ subtitle: About us
 	<p> 
 		<center> <h1> Leadership </h1> 
 			<div id="index-gallery;width=auto;">
-				<div class="item">
-    					<img src="/img/JamesBrown_V1.png" alt="" style="width:170px;height:170px"/>
-					Jim Brown JD MBA <br> CEO
-  				</div>
   				<div class="item">
     					<img src="/img/Andrew_Dunn.png" alt="" style="width:170px;height:170px"/>
     					Andrew Dunn PhD <br> CSO
@@ -21,6 +17,10 @@ subtitle: About us
 				<div class="item">
     					<img src="/img/Sandeep.jpg" alt="" style="width:170px;height:170px"/>
     					Sandeep Gupta MS <br> CTO
+  				</div>
+				<div class="item">
+    					<img src="/img/DavidMillerHeadshot.jpg" alt="" style="width:170px;height:170px"/>
+    					David Miller <br> VP PM&E
   				</div>
 				<div class="item">
     					<img src="/img/pb_headshot.jpg" alt="" style="width:170px;height:170px"/>
@@ -52,14 +52,14 @@ subtitle: About us
 			</div>
 		</center> </p>
 	<div style="clear:both;height:1em;"></div>
-			<h2> James Earl Brown III ("Jim"), JD, MBA </h2>
-Jim brings industry domain expertise and a successful investment track record in private equity and venture capital, as well as CEO and director experience in several private companies. Jim is a Founder & General Partner of Arena Growth Partners, an “early-stage growth” venture capital firm focused on IT and IT-enabled businesses with a need for capital and a financial partner with a “servant leadership” mentality to break through the growth ceiling. Prior to Arena Growth Partners, Jim was most notably a General Partner at Polaris Venture Partners, where he identified, led, and actively participated in investments in early-stage information technology companies, including enterprise software, cybersecurity, fin-tech, ecommerce, telecommunications software and hardware, SaaS, and technology-enabled businesses and platforms.  His investments grew to represent more than $10B in enterprise value via IPO’s and through acquisitions by Amazon, IBM, and E-Trade, among others. Jim also actively participated as a partner in developing firm strategy and in fundraising activities.  During his tenure, Polaris grew from $85M to over $3B in assets under management. Jim also served as CEO of software companies InvisbleHand Networks and Sparkphone. Jim began his investment career with J.P. Morgan Capital, after his service to the nation as a Captain and Aviator in the United States Army.  Jim holds an MBA from Harvard Business School, a JD from New York University School of Law, and a BS in Engineering and Political Science from the United States Military Academy at West Point.
-	<br>	
 			<h2> Andrew Dunn, PhD, CSO, and Co-founder </h2>
 Andrew is the Director of the Center for Emerging Imaging Technologies and is a Professor in the Biomedical Engineering Department of The University of Texas at Austin.  Andrew's research is focused on developing novel optical imaging techniques for imaging brain function.  His laboratory integrates innovative photonics and computational techniques and applies them to research questions in areas such as stroke, migraine, functional mapping during neurosurgery, and Alzheimer’s disease. One of the techniques Andrew has developed is laser speckle contrast imaging of blood flow, which he has used to dynamically image the cerebral blood flow changes during stroke, migraine and normal brain activation.  Andrew works closely with neuroscientists, neurologists, and neurosurgeons in the application of these imaging techniques to various problems related to brain function. He is a founder of, and leader in, the field of laser speckle imaging and, in particular, implementation of continuous, real-time, high resolution speckle imaging enabled by sophisticated proprietary algorithms and software libraries.  Andrew and his laboratory team have authored many of the seminal papers in the field, and have conducted human clinical trials with his technologies, as well as extensive animal studies.
 	<br>
 			<h2> Sandeep Gupta, MS, CTO </h2>
 Sandeep brings over twenty-five years of professional experience in delivering technology solutions over a wide range of business domains. In 2001, he co-founded Calavista Software, a software services firm. Over 17 years leading Calavista, Sandeep worked with over a hundred companies to refine their company strategy and vision, and successfully transformed product visions into deployed products that generated an ROI. He has served on several boards and was awarded Director of the Year by the Austin Technology Council. Sandeep is driven by his customers receiving high value from the products he delivers and focuses on rapid delivery and user adoption. He started his career at Trilogy Software and mentors technology professionals from economically disadvantaged backgrounds. Sandeep holds a Master’s degree in Electrical Engineering and Computer Science from the Massachusetts Institute of Technology, where he joined the Ph.D. program. He graduated summa cum laude from Rice University and earned Bachelor’s degrees in Computer Science, Cognitive Sciences, and Electrical and Computer Engineering.
+	<br>
+			<h2> David Miller, PhD, VP, Product Management and Engineering </h2>
+David serves as the Vice President of Product Management and Engineering. David co-founded Dynamic Light in 2018, and has led the neurosurgical clinical trials for many years evaluating the clinical efficacy of Dynamic Light’s SpeckleView technology. David works closely with neurosurgeons in the clinic, and hardware and software integration for product market fit. David received his PhD in Biomedical Engineering from UT Austin under the guidance of Andrew Dunn, and postdocotral training at UT Austin and Johns Hopkins. David has participated in the NSF I-corps entrepreneurial program during which he interviewed numerous neurosurgeons about the need for Dynamic Light’s technology during neurosurgical procedures, and was the team lead for the UT Austin Dell Medical School Texas Health Catalyst Program which provided seed funding for Dynamic Light.
 		<br>	
 			<h2> Pamela Berger, CFO </h2>
 Pamela Berger is a Consulting Chief Financial Officer for Bridgepoint Consulting LLC, an Addison Group Company with over 30 years of experience in multiple industries and markets including health care, technology, and CPG.  AS CFO for several early-stage companies she has guided them through hypergrowth phases leading to eventual successful exits.  Pam has a wide range of experience including Fund Raising, M&A activity, Treasury, Accounting, Budgeting and Forecasting and Financial operations. Pam is a hands-on operationally minded leader with an entrepreneurial style and a strong sense of ownership, possessing fiscal integrity, operational excellence and the ability to integrate and work effectively with a multi-disciplinary Leadership team and Board of Directors.   Experience in Private Equity and Venture backed environments with an appreciation for the smaller company environment which tends to be fast, nimble and resource constrained.  Pam is a trusted advisor and confidant, who partners with executive leadership to manage the entire organization.
