@@ -2,6 +2,7 @@
 layout: page
 title: Dynamic Light
 subtitle: About us
+meta: blood flow visualization
 ---
 <div>
 <p>
