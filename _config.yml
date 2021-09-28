@@ -30,7 +30,7 @@ navbar-links:
   Home: ""
   Technology: "technology"
   #Research: "research"
-  Events: "events"
+  #Events: "events"
   #Blog: "blog"
   About Us: "team"
   #Investors: "investors"
