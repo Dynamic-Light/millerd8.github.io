@@ -14,7 +14,7 @@ subtitle: About Us
 					<br>
 				</div>
 				<div class="item">
-    					<img src="/img/EHoff_headshot.jpeg" alt="" style="width:170px;height:170px"/>
+    					<img src="/img/EHoff_headshot.jpeg" alt="" style="width:30%;height:170px"/>
     					Elizabeth Hoff <br> CEO
   				</div>
 				<div class="item">
