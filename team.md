@@ -57,6 +57,7 @@ subtitle: About Us
 		</center> 
 	</p>
 </div>
+
 <div>
 		<h2> Elizabeth Hoff, CEO </h2>
 Elizabeth...
