@@ -36,7 +36,7 @@ subtitle: About Us
 			<div id="index-gallery;width=auto;">
 				<div class="item-small">
     					<img src="/img/EHoff_headshot.jpeg" alt="" style="width:130px;height:130px"/>
-    					Elizabeth Hoff
+					<small> Elizabeth Hoff </small>
   				</div>
 				 <div class="item-small">
     					<img src="/img/HollowayPortrait2020Cropped_V2.png" alt="" style="width:130px;height:130px"/>
