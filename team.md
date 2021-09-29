@@ -40,7 +40,7 @@ subtitle: About Us
   				</div>
 				 <div class="item-small">
     					<img src="/img/HollowayPortrait2020Cropped_V2.png" alt="" style="width:135px;height:135px"/>
-    					<small> Jean Holloway JD,MBA</small>
+    					<small> Jean Holloway JD, MBA</small>
   				</div>
 				  <div class="item-small">
     					<img src="/img/BobTeague_cropped_V4.jpg" alt="" style="width:135px;height:135px"/>
@@ -48,7 +48,7 @@ subtitle: About Us
 				</div>
 				<div class="item-small">
     					<img src="/img/TonyManuelFinal_V2.png" alt="" style="width:135px;height:135px"/>
-					<small> Tony Manuel MD,MMM</small>
+					<small> Tony Manuel MD, MMM</small>
   				</div>
 				<div class="item-small">
     					<img src="/img/Dunn-Andrew-3.jpg" alt="" style="width:135px;height:135px"/>
