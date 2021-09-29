@@ -51,7 +51,7 @@ subtitle: About Us
   				</div>
 				<div class="item-small">
     					<img src="/img/Dunn-Andrew-3.jpg" alt="" style="width:150px;height:150px"/>
-    					Andrew Dunn PhD
+					<small> Andrew Dunn PhD </small>
 				</div>
 			</div>
 		</center> 
