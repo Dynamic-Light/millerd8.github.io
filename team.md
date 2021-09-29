@@ -10,7 +10,7 @@ subtitle: About Us
 	<p> 
 		<center> <h1> Leadership </h1> 
 			<div id="index-gallery;width=auto;">
-  				<div class="item">
+  				<div class="item2">
 					  
 				</div>
 				<div class="item">
