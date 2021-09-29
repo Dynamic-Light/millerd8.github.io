@@ -44,7 +44,7 @@ subtitle: About Us
   				</div>
 				  <div class="item-small">
     					<img src="/img/BobTeague_cropped_V3.png" alt="" style="width:125px;height:130px"/>
-    					Bob Teague MD
+    					<small> Bob Teague MD </small>
 				</div>
 				<div class="item-small">
     					<img src="/img/TonyManuelFinal_V2.png" alt="" style="width:130px;height:130px"/>
