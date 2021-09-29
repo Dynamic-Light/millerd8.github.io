@@ -25,13 +25,6 @@ subtitle: About Us
 			</div> 
 		</center>
 	</p>
-	
-	<p align="center" width="100%">
-    		<img width="31%" src="/img/EHoff_headshot.jpeg">
-    		<img width="31%" src="/img/Andrew_Dunn.png">
-    		<img width="31%" src="/img/DavidMillerHeadshot.jpg">
-	</p>
-	
 			<div style="clear:both;height:0.2em;"></div>
 	<p>
 		<center> <h1> Board of Directors </h1> 
