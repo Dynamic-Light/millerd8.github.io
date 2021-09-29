@@ -10,8 +10,7 @@ subtitle: About Us
 	<p> 
 		<center> <h1> Leadership </h1> 
 			<div id="index-gallery;width=auto;">
-  				<div class="item2">
-						  
+  				<div class="item-img">	  
 				</div>
 				<div class="item">
     					<img src="/img/EHoff_headshot.jpeg" alt="" style="width:170px;height:170px"/>
