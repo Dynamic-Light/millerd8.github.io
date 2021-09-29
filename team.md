@@ -11,20 +11,16 @@ subtitle: About us
 		<center> <h1> Leadership </h1> 
 			<div id="index-gallery;width=auto;">
   				<div class="item">
+    					<img src="/img/EHoff_headshot.jpeg" alt="" style="width:170px;height:170px"/>
+    					Elizabeth Hoff <br> CEO
+  				</div>
+				<div class="item">
     					<img src="/img/Andrew_Dunn.png" alt="" style="width:170px;height:170px"/>
     					Andrew Dunn PhD <br> CSO
   				</div>
 				<div class="item">
-    					<img src="/img/Sandeep.jpg" alt="" style="width:170px;height:170px"/>
-    					Sandeep Gupta MS <br> CTO
-  				</div>
-				<div class="item">
     					<img src="/img/DavidMillerHeadshot.jpg" alt="" style="width:160px;height:170px"/>
     					David Miller <br> VP PM & Eng
-  				</div>
-				<div class="item">
-    					<img src="/img/pb_headshot.jpg" alt="" style="width:170px;height:170px"/>
-    					Pamela Berger <br> CFO
   				</div>
 			</div> 
 		</center>
