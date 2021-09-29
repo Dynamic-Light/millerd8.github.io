@@ -37,22 +37,22 @@ subtitle: About Us
     					<img src="/img/EHoff_headshot.jpeg" alt="" style="width:150px;height:150px"/>
     					Elizabeth Hoff
   				</div>
-				<div class="item-small">
-    					<img src="/img/Dunn-Andrew-3.jpg" alt="" style="width:150px;height:150px"/>
-    					Andrew Dunn PhD
-				</div>
-  				<div class="item-small">
+				 <div class="item-small">
     					<img src="/img/HollowayPortrait2020Cropped_V2.png" alt="" style="width:155px;height:150px"/>
     					<small> Jean Holloway JD MBA </small>
   				</div>
-  				<div class="item-small">
+				  <div class="item-small">
     					<img src="/img/BobTeague_cropped_V3.png" alt="" style="width:140px;height:150px"/>
     					Bob Teague MD
-  				</div>
+				</div>
 				<div class="item-small">
     					<img src="/img/TonyManuelFinal_V2.png" alt="" style="width:140px;height:150px"/>
 					<small> Tony Manuel MD MMM </small>
   				</div>
+				<div class="item-small">
+    					<img src="/img/Dunn-Andrew-3.jpg" alt="" style="width:150px;height:150px"/>
+    					Andrew Dunn PhD
+				</div>
 			</div>
 		</center> 
 	</p>
