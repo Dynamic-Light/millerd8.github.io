@@ -66,10 +66,6 @@ subtitle: About Us
   				</div>
 			</div>
 		</center> </p>
-		
-		
-		
-		
 		<center> <h1> Board of Directors </h1> 
 			<div id="index-gallery;width=auto;">
 				<div class="item">
