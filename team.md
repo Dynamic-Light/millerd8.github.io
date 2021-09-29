@@ -40,6 +40,7 @@ subtitle: About Us
 				<div class="item-small">
     					<img src="/img/Dunn-Andrew-3.jpg" alt="" style="width:170px;height:170px"/>
     					Andrew Dunn PhD <br> CSO <br> 
+				</div>
   				<div class="item-small">
     					<img src="/img/HollowayPortrait2020Cropped_V2.png" alt="" style="width:175px;height:170px"/>
     					<small> Jean Holloway JD MBA </small>
