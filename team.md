@@ -29,7 +29,6 @@ subtitle: About Us
 		</center>
 	</p>
 </div>
-<div style="clear:both;height:0.2em;"></div>
 <div>
 	<p>
 		<center> <h1> Board of Directors </h1> 
@@ -58,6 +57,7 @@ subtitle: About Us
 		</center> 
 	</p>
 </div>
+<div style="clear:both;height:0.2em;"></div>
 <div>
 	<p>
 		<h2> Elizabeth Hoff, CEO </h2>
