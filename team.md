@@ -51,12 +51,11 @@ subtitle: About Us
   				</div>
 				<div class="item-small">
     					<img src="/img/Dunn-Andrew-3.jpg" alt="" style="width:150px;height:150px"/>
-					<small> Andrew Dunn PhD </small>
+					<small> Andrew Dunn PhD </small> <br>
 				</div>
 			</div>
 		</center> 
 	</p>
-	<br>
 </div>
 <div>
 		<h2> Elizabeth Hoff, CEO </h2>
