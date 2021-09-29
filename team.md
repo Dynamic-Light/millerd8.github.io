@@ -44,15 +44,15 @@ subtitle: About Us
   				</div>
 				  <div class="item-small">
     					<img src="/img/BobTeague_cropped_V4.jpg" alt="" style="width:130px;height:130px"/>
-    					<small> Bob Teague MD </small>
+    					Bob Teague MD
 				</div>
 				<div class="item-small">
     					<img src="/img/TonyManuelFinal_V2.png" alt="" style="width:130px;height:130px"/>
-					<small> Tony Manuel MD, MMM</small>
+					Tony Manuel MD, MMM
   				</div>
 				<div class="item-small">
     					<img src="/img/Dunn-Andrew-3.jpg" alt="" style="width:130px;height:130px"/>
-					<small> Andrew Dunn PhD </small>
+					Andrew Dunn PhD
 				</div>
 			</div>
 		</center> 
