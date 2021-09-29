@@ -47,6 +47,8 @@ subtitle: About Us
 			</div>
 		</center> 
 	</p>
+</div>
+<div>
 	<p>
 		<center>
 			<div id="index-gallery;width=auto;">
