@@ -35,7 +35,7 @@ subtitle: About Us
 		<center> <h1> Board of Directors </h1> 
 			<div id="index-gallery;width=auto;">
 				<div class="item-imgg">	 
-					<br>
+				<br>
 				</div>
 				<div class="item">
     					<img src="/img/EHoff_headshot.jpeg" alt="" style="width:170px;height:170px"/>
@@ -48,8 +48,6 @@ subtitle: About Us
 			</div>
 		</center> 
 	</p>
-</div>
-<div>
 	<p>
 		<center>
 			<div id="index-gallery;width=auto;">
