@@ -15,7 +15,7 @@ subtitle: About Us
     					Elizabeth Hoff <br> CEO
   				</div>
 				<div class="item">
-    					<img src="/img/Andrew_Dunn.png" alt="" style="width:170px;height:170px"/>
+    					<img src="/img/Dunn-Andrew.jpg" alt="" style="width:170px;height:170px"/>
     					Andrew Dunn PhD <br> CSO
   				</div>
 				<div class="item">
@@ -49,7 +49,7 @@ subtitle: About Us
     					Bob Teague MD
   				</div>
 				<div class="item">
-    					<img src="/img/Andrew_Dunn.png" alt="" style="width:170px;height:170px"/>
+    					<img src="/img/Dunn-Andrew.jpg" alt="" style="width:170px;height:170px"/>
     					Andrew Dunn PhD <br>
   				</div>
 			</div>
