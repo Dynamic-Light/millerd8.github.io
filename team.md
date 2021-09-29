@@ -18,7 +18,7 @@ subtitle: About Us
     					Elizabeth Hoff <br> CEO
   				</div>
 				<div class="item">
-    					<img src="/img/DavidMillerHeadshot.jpg" alt="" style="width:170px;height:170px"/>
+    					<img src="/img/DavidMillerHeadshot.jpg" alt="" style="width:160px;height:170px"/>
     					David Miller PhD <br> VP PM & Eng
   				</div>
 				<div class="item">
