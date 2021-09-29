@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dynamic Light
-subtitle: About us
+subtitle: About Us
 ---
 <div>
 <p>
