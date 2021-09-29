@@ -30,6 +30,7 @@ subtitle: About Us
 	</p>
 </div>
 <div style="clear:both;height:0.2em;"></div>
+<div>
 	<p>
 		<center> <h1> Board of Directors </h1> 
 			<div id="index-gallery;width=auto;">
@@ -47,6 +48,7 @@ subtitle: About Us
 			</div>
 		</center> 
 	</p>
+</div>
 	<p>
 		<center>
 			<div id="index-gallery;width=auto;">
