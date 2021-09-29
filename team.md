@@ -42,7 +42,7 @@ subtitle: About Us
   				</div>
 				<div class="item">
     					<img src="/img/Dunn-Andrew-3.jpg" alt="" style="width:170px;height:170px"/>
-    					Andrew Dunn PhD <br>
+    					Andrew Dunn PhD <br> CSO
   				</div>
 			</div>
 		</center> 
