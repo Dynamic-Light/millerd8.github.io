@@ -38,7 +38,7 @@ subtitle: About Us
     					Elizabeth Hoff
   				</div>
 				 <div class="item-small">
-    					<img src="/img/HollowayPortrait2020Cropped_V2.png" alt="" style="width:135px;height:140px"/>
+    					<img src="/img/HollowayPortrait2020Cropped_V2.png" alt="" style="width:145px;height:150px"/>
     					<small> Jean Holloway JD MBA </small>
   				</div>
 				  <div class="item-small">
@@ -46,7 +46,7 @@ subtitle: About Us
     					Bob Teague MD
 				</div>
 				<div class="item-small">
-    					<img src="/img/TonyManuelFinal_V2.png" alt="" style="width:130px;height:140px"/>
+    					<img src="/img/TonyManuelFinal_V2.png" alt="" style="width:140px;height:150px"/>
 					<small> Tony Manuel MD MMM </small>
   				</div>
 				<div class="item-small">
