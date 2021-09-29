@@ -7,6 +7,8 @@ subtitle: About Us
 	<p>
 	Dynamic Light, Inc is based in Austin, Texas and was founded in May 2018. Dynamic Light’s mission is to enable real-time blood flow imaging to improve patient care and lower health care costs.  Our technology supports better decision making by providing physicians continuous, quantitative, and high-resolution visualization of perfusion.
 	</p>
+</div>
+<div>
 	<p> 
 		<center> <h1> Leadership </h1> 
 			<div id="index-gallery;width=auto;">
