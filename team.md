@@ -9,9 +9,9 @@ subtitle: About Us
 </p>
 	<p> 
 		<center> <h1> Leadership </h1> 
-			&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 			<div id="index-gallery;width=auto;">
   				<div class="item">
+					&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     					<img src="/img/EHoff_headshot.jpeg" alt="" style="width:170px;height:170px"/>
     					Elizabeth Hoff <br> CEO
   				</div>
