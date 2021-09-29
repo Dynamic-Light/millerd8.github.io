@@ -35,23 +35,23 @@ subtitle: About Us
 		<center> <h1> Board of Directors </h1> 
 			<div id="index-gallery;width=auto;">
 				<div class="item-small">
-    					<img src="/img/EHoff_headshot.jpeg" alt="" style="width:140px;height:140px"/>
+    					<img src="/img/EHoff_headshot.jpeg" alt="" style="width:135px;height:135px"/>
 					<small> Elizabeth Hoff </small>
   				</div>
 				 <div class="item-small">
-    					<img src="/img/HollowayPortrait2020Cropped_V2.png" alt="" style="width:140px;height:140px"/>
+    					<img src="/img/HollowayPortrait2020Cropped_V2.png" alt="" style="width:135px;height:135px"/>
     					<small> Jean Holloway JD,MBA</small>
   				</div>
 				  <div class="item-small">
-    					<img src="/img/BobTeague_cropped_V4.jpg" alt="" style="width:140px;height:140px"/>
+    					<img src="/img/BobTeague_cropped_V4.jpg" alt="" style="width:135px;height:135px"/>
     					<small> Bob Teague MD </small>
 				</div>
 				<div class="item-small">
-    					<img src="/img/TonyManuelFinal_V2.png" alt="" style="width:140px;height:140px"/>
+    					<img src="/img/TonyManuelFinal_V2.png" alt="" style="width:135px;height:135px"/>
 					<small> Tony Manuel MD,MMM</small>
   				</div>
 				<div class="item-small">
-    					<img src="/img/Dunn-Andrew-3.jpg" alt="" style="width:140px;height:140px"/>
+    					<img src="/img/Dunn-Andrew-3.jpg" alt="" style="width:135px;height:135px"/>
 					<small> Andrew Dunn PhD </small>
 				</div>
 			</div>
