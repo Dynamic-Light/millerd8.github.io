@@ -33,7 +33,7 @@ subtitle: About Us
 	<p>
 		<center> <h1> Board of Directors </h1> 
 			<div id="index-gallery;width=auto;">
-				<div class="item-imgg">	 
+				<div class="item-img">	 
 				<br>
 				</div>
 				<div class="item">
