@@ -11,7 +11,7 @@ subtitle: About Us
 		<center> <h1> Leadership </h1> 
 			<div id="index-gallery;width=auto;">
   				<div class="item">
-    					<img src="/img/EHoff_headshot.jpeg" alt="" style="width:170px;height:170px"/>
+    					<img src="/img/EHoff_headshot.jpeg" alt="" style="width:170px;height:170px; padding-right:10px"/>
     					Elizabeth Hoff <br> CEO
   				</div>
 				<div class="item">
