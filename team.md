@@ -36,11 +36,11 @@ subtitle: About Us
 			<div id="index-gallery;width=auto;">
 				<div class="item-small">
     					<img src="/img/EHoff_headshot.jpeg" alt="" style="width:130px;height:130px"/>
-					<small> Elizabeth Hoff </small>
+					Elizabeth Hoff
   				</div>
 				 <div class="item-small">
     					<img src="/img/HollowayPortrait2020Cropped_V2.png" alt="" style="width:130px;height:130px"/>
-    					<small> Jean Holloway JD, MBA</small>
+    					Jean Holloway JD, MBA
   				</div>
 				  <div class="item-small">
     					<img src="/img/BobTeague_cropped_V4.jpg" alt="" style="width:130px;height:130px"/>
