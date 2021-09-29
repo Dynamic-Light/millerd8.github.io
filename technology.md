@@ -9,7 +9,7 @@ subtitle: Our Technology
    Dynamic Light's imaging technology provides surgeons with continuous, real-time blood flow visualization without dyes or procedural interruptions. Our technology supports better decision making which improves patient care and reduces health care costs.
   </p>
   <p>
-  The videos below compare Dynamic Light’s SpeckleView&trade; technology (left video) with the current standard of care Indocyanine green angiography (right video). The comparison videos were recorded simultaneously during a stroke and play at the same sped up time rate.
+  The videos below compare Dynamic Light’s SpeckleView&reg; technology (left video) with the current standard of care Indocyanine green angiography (right video). The comparison videos were recorded simultaneously during a stroke and play at the same sped up time rate.
  </p>
 </div>
 
