@@ -73,6 +73,7 @@ subtitle: About Us
 	</p>
 </div>
 	<div style="clear:both;height:1em;"></div>
+<div>
 			<h2> Andrew Dunn, PhD, CSO, and Co-founder </h2>
 Andrew is the Director of the Center for Emerging Imaging Technologies and is a Professor in the Biomedical Engineering Department of The University of Texas at Austin.  Andrew's research is focused on developing novel optical imaging techniques for imaging brain function.  His laboratory integrates innovative photonics and computational techniques and applies them to research questions in areas such as stroke, migraine, functional mapping during neurosurgery, and Alzheimer’s disease. One of the techniques Andrew has developed is laser speckle contrast imaging of blood flow, which he has used to dynamically image the cerebral blood flow changes during stroke, migraine and normal brain activation.  Andrew works closely with neuroscientists, neurologists, and neurosurgeons in the application of these imaging techniques to various problems related to brain function. He is a founder of, and leader in, the field of laser speckle imaging and, in particular, implementation of continuous, real-time, high resolution speckle imaging enabled by sophisticated proprietary algorithms and software libraries.  Andrew and his laboratory team have authored many of the seminal papers in the field, and have conducted human clinical trials with his technologies, as well as extensive animal studies.
 <br>
@@ -94,4 +95,4 @@ Jean is currently the Senior Vice President, General Counsel, Chief Compliance O
 		<br>	
 			<h2> Bob Teague, MD </h2>
 Bob serves as Chief Medical Officer for Green Room Technologies, specializing in business, market and technology readiness for health tech companies with medical devices and software products. Bob is board certified in Internal Medicine and Pulmonary Disease, was formerly in clinical practice in the Texas Medical Center and has held executive leadership roles in entrepreneurial startups, large Medical Center institutions and Fortune 50 technology companies. His entrepreneurial experiences were financially successful, technologically innovative enterprises that were transformative in their markets for respiratory home care, diabetes chronic care management, healthcare interoperability and Medicare Advantage risk management through transitional care and high-risk patient management.
-
+</div>
