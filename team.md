@@ -33,35 +33,22 @@ subtitle: About Us
 	<p>
 		<center> <h1> Board of Directors </h1> 
 			<div id="index-gallery;width=auto;">
-				<div class="item-img">	 
-				<br>
-				</div>
-				<div class="item">
+				<div class="item-small">
     					<img src="/img/EHoff_headshot.jpeg" alt="" style="width:170px;height:170px"/>
     					Elizabeth Hoff <br> CEO
   				</div>
-				<div class="item">
+				<div class="item-small">
     					<img src="/img/Dunn-Andrew-3.jpg" alt="" style="width:170px;height:170px"/>
     					Andrew Dunn PhD <br> CSO <br> 
-  				</div>
-			</div>
-		</center> 
-	</p>
-	<br>
-</div>
-<div>
-	<p>
-		<center>
-			<div id="index-gallery;width=auto;">
-  				<div class="item">
+  				<div class="item-small">
     					<img src="/img/HollowayPortrait2020Cropped_V2.png" alt="" style="width:175px;height:170px"/>
     					<small> Jean Holloway JD MBA </small>
   				</div>
-  				<div class="item">
+  				<div class="item-small">
     					<img src="/img/BobTeague_cropped_V3.png" alt="" style="width:160px;height:170px"/>
     					Bob Teague MD
   				</div>
-				<div class="item">
+				<div class="item-small">
     					<img src="/img/TonyManuelFinal_V2.png" alt="" style="width:160px;height:170px"/>
 					<small> Tony Manuel MD MMM </small>
   				</div>
