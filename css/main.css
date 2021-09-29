@@ -678,6 +678,17 @@ pre {
   float:left;
 }
 
+.item-small{
+  width:140px;
+  text-align:center;
+  display:block;
+  background-color: transparent;
+  border: 1px solid transparent;
+  margin-right: 5px;
+  margin-bottom: 0px;
+  float:left;
+}
+
 #index-gallery{
   width:900px;
 }
