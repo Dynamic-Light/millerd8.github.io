@@ -58,13 +58,13 @@ subtitle: About Us
 	</p>
 </div>
 <div>
-			<h2> Andrew Dunn, PhD, CSO, and Co-founder </h2>
+		<h2> Elizabeth Hoff, CEO </h2>
+Elizabeth...
+	<br>	
+		<h2> Andrew Dunn, PhD, CSO, and Co-founder </h2>
 Andrew is the Director of the Center for Emerging Imaging Technologies and is a Professor in the Biomedical Engineering Department of The University of Texas at Austin.  Andrew's research is focused on developing novel optical imaging techniques for imaging brain function.  His laboratory integrates innovative photonics and computational techniques and applies them to research questions in areas such as stroke, migraine, functional mapping during neurosurgery, and Alzheimer’s disease. One of the techniques Andrew has developed is laser speckle contrast imaging of blood flow, which he has used to dynamically image the cerebral blood flow changes during stroke, migraine and normal brain activation.  Andrew works closely with neuroscientists, neurologists, and neurosurgeons in the application of these imaging techniques to various problems related to brain function. He is a founder of, and leader in, the field of laser speckle imaging and, in particular, implementation of continuous, real-time, high resolution speckle imaging enabled by sophisticated proprietary algorithms and software libraries.  Andrew and his laboratory team have authored many of the seminal papers in the field, and have conducted human clinical trials with his technologies, as well as extensive animal studies.
 <br>
-			<h2> Sandeep Gupta, MS, CTO </h2>
-Sandeep brings over twenty-five years of professional experience in delivering technology solutions over a wide range of business domains. In 2001, he co-founded Calavista Software, a software services firm. Over 17 years leading Calavista, Sandeep worked with over a hundred companies to refine their company strategy and vision, and successfully transformed product visions into deployed products that generated an ROI. He has served on several boards and was awarded Director of the Year by the Austin Technology Council. Sandeep is driven by his customers receiving high value from the products he delivers and focuses on rapid delivery and user adoption. He started his career at Trilogy Software and mentors technology professionals from economically disadvantaged backgrounds. Sandeep holds a Master’s degree in Electrical Engineering and Computer Science from the Massachusetts Institute of Technology, where he joined the Ph.D. program. He graduated summa cum laude from Rice University and earned Bachelor’s degrees in Computer Science, Cognitive Sciences, and Electrical and Computer Engineering.
-	<br>
-			<h2> David Miller, PhD, VP, Product Management and Engineering, and Co-founder </h2>
+		<h2> David Miller, PhD, VP, Product Management and Engineering, and Co-founder </h2>
 David serves as the Vice President of Product Management and Engineering. David co-founded Dynamic Light in 2018, and has led the neurosurgical clinical trials for many years evaluating the clinical efficacy of Dynamic Light’s SpeckleView technology. David works closely with neurosurgeons in the clinic, and hardware and software integration for product market fit. David received his PhD in Biomedical Engineering from UT Austin under the guidance of Andrew Dunn, and postdocotral training at UT Austin and Johns Hopkins. David has participated in the NSF I-corps entrepreneurial program during which he interviewed numerous neurosurgeons about the need for Dynamic Light’s technology during neurosurgical procedures, and was the team lead for the UT Austin Dell Medical School Texas Health Catalyst Program which provided seed funding for Dynamic Light.
 		<br>	
 			<h2> Pamela Berger, CFO </h2>
