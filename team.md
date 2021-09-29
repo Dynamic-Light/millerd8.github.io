@@ -11,7 +11,7 @@ subtitle: About Us
 		<center> <h1> Leadership </h1> 
 			<div id="index-gallery;width=auto;">
   				<div class="item-img">	 
-				<p> <br>
+					<p> <br>
 				</div>
 				<div class="item">
     					<img src="/img/EHoff_headshot.jpeg" alt="" style="width:170px;height:170px"/>
@@ -30,6 +30,46 @@ subtitle: About Us
 	</p>
 			<div style="clear:both;height:0.2em;"></div>
 	<p>
+		<center> <h1> Board of Directors </h1> 
+			<div id="index-gallery;width=auto;">
+				 <div class="item-imgg">	 
+					<p> <br>
+				</div>
+				<div class="item">
+    					<img src="/img/EHoff_headshot.jpeg" alt="" style="width:170px;height:170px"/>
+    					Elizabeth Hoff <br> CEO
+  				</div>
+				<div class="item">
+    					<img src="/img/Dunn-Andrew-3.jpg" alt="" style="width:170px;height:170px"/>
+    					Andrew Dunn PhD <br>
+  				</div>
+			</div>
+		</center> 
+	</p>
+	<p>
+		<center>
+			<div id="index-gallery;width=auto;">
+				<div class="item-img">	 
+					<p> <br>
+				</div>
+  				<div class="item">
+    					<img src="/img/HollowayPortrait2020Cropped_V2.png" alt="" style="width:175px;height:170px"/>
+    					<small> Jean Holloway JD MBA </small>
+  				</div>
+  				<div class="item">
+    					<img src="/img/BobTeague_cropped_V3.png" alt="" style="width:160px;height:170px"/>
+    					Bob Teague MD
+  				</div>
+				<div class="item">
+    					<img src="/img/TonyManuelFinal_V2.png" alt="" style="width:160px;height:170px"/>
+					<small> Tony Manuel MD MMM </small>
+  				</div>
+			</div>
+		</center> </p>
+		
+		
+		
+		
 		<center> <h1> Board of Directors </h1> 
 			<div id="index-gallery;width=auto;">
 				<div class="item">
