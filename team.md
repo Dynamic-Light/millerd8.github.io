@@ -39,7 +39,7 @@ subtitle: About Us
     					Elizabeth Hoff
   				</div>
 				 <div class="item-small">
-    					<img src="/img/HollowayPortrait2020Cropped_V2.png" alt="" style="width:130px;height:130px"/>
+    					<img src="/img/HollowayPortrait2020Cropped_V2.png" alt="" style="width:140px;height:130px"/>
     					<small> Jean Holloway JD,MBA </small>
   				</div>
 				  <div class="item-small">
