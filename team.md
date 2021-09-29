@@ -53,9 +53,6 @@ subtitle: About Us
 	<p>
 		<center>
 			<div id="index-gallery;width=auto;">
-				<div class="item-img">	 
-					<br>
-				</div>
   				<div class="item">
     					<img src="/img/HollowayPortrait2020Cropped_V2.png" alt="" style="width:175px;height:170px"/>
     					<small> Jean Holloway JD MBA </small>
