@@ -11,6 +11,6 @@ subtitle: Contact Us
     </p>
 
      <p style="text-align: center;">    
-        Please contact <ehoff@dynamiclight.ai> for further information.
+        Please contact [ehoff@dynamiclight.ai](mailto:ehoff@dynamiclight.ai) for further information.
     </p>
 </div>
