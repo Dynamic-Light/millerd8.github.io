@@ -3,6 +3,8 @@ layout: page
 title: Dynamic Light
 subtitle: Publications
 ---
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+<link rel="stylesheet" href="/static/css/style.css">
 
 <div>
   <p>
@@ -60,3 +62,4 @@ Conclusion: The large alterations caused by isoflurane anesthesia to the cortica
 </div>
 </div>
 <div class="paper col" id="10.1101/2021.04.29.21254954" title="Click to view abstract and links">
+	
