@@ -3,9 +3,6 @@ layout: page
 title: Dynamic Light
 subtitle: Publications
 ---
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
-<link rel="stylesheet" href="/static/css/style.css">
-
 <div>
   <p>
     <h2> Clinical Research Evidence </h2>
@@ -62,4 +59,21 @@ Conclusion: The large alterations caused by isoflurane anesthesia to the cortica
 </div>
 </div>
 <div class="paper col" id="10.1101/2021.04.29.21254954" title="Click to view abstract and links">
+	<h2 class="paper-title">Laser speckle contrast imaging for visualizing blood flow during cerebral aneurysm surgery: A comparison with indocyanine green angiography</h2>
+<div class="paper-details">
+D. R. Miller, R. Ashour, C. T. Sullender, and A. K. Dunn, <cite>medRxiv</cite> (2021)
+</div>
+<div class="paper-abstract-box" style="display: none;">
+<div class="paper-abstract clearfix">
+<blockquote class="blockquote abstract-text">
+Laser speckle contrast imaging (LSCI) has emerged as a promising tool for intraoperative cerebral blood flow (CBF) monitoring because it produces real-time full-field blood flow maps non-invasively and label-free. In this study, we compare LSCI with indocyanine green angiography (ICGA) to assess CBF during aneurysm clipping surgery in humans. LSCI hardware was attached to the surgical microscope prior to the start of each surgery and did not interfere with the sterile draping of the microscope or normal operation of the microscope. LSCI and ICGA were performed simultaneously to visualize CBF in n=4 aneurysm clipping cases, and LSCI was performed throughout each surgery when the microscope was positioned over the patient. To more easily visualize CBF in real-time, LSCI images were overlaid on the built-in microscope white light camera images and displayed to the neurosurgeon in real-time. Blood flow changes before, during, and after an aneurysm clipping were visualized with LSCI and later verified with ICGA. LSCI was performed continuously throughout the aneurysm clipping process, providing the surgeon with immediate actionable information on the success of the clipping. The results demonstrate that LSCI and ICGA provide different, yet complementary information about vessel perfusion.
+</blockquote>
+<p class="paper-link">
+<a target="_blank" class="glyph glyph-link" href="https://doi.org/10.1101/2021.04.29.21254954">View on journal website</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
 	
