@@ -20,7 +20,8 @@ Dynamic Light's SpeckleView&reg; technology has 20 years of research evidence to
 </div>
 <div>
   <p>
-        <h2> Peer-Reviewed Publications Related to Dynamic Light </h2>
+        <h2> Peer-Reviewed Publications </h2>
+	The Dynamic Light team has 20+ peer-reviewed publications related to the development and application of SpeckleView&reg; technology.
  </p>
 </div> 
 
