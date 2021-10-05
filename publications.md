@@ -13,7 +13,7 @@ Dynamic Light's SpeckleView&reg; technology has years of clinical research evide
   Andrew Dunn was awarded the TAMEST ....
   
   <iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=v2r_JE6LYa8"> 
+src="https://www.youtube.com/embed/v=v2r_JE6LYa8"> 
 </iframe>
   </p>
   <p>
