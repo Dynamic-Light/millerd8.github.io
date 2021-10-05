@@ -17,18 +17,9 @@ Dynamic Light's SpeckleView&reg; technology has years of clinical research evide
 <iframe src="https://www.youtube.com/embed/v2r_JE6LYa8"  webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder="0"  style="width: 95%; height: 420px;"></iframe>
 	</p>
 </div>
-  
-  <iframe width="420" height="315"
-src="https://www.youtube.com/embed/v2r_JE6LYa8" webkitallowfullscreen mozallowfullscreen allowfullscreen> 
-</iframe>
-  </p>
+<div>
   <p>
         <h2> Publications Related to Dynamic Light </h2>
  </p>
 </div> 
- 
 
-<div style="float:left;width:auto;margin-right:10px;"> 
-  <iframe src="https://www.youtube.com/watch?v=v2r_JE6LYa8"  webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder="0"  style="width: 360px; height: 325px;">
-  </iframe>
-</div>
