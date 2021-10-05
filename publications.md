@@ -13,7 +13,7 @@ Dynamic Light's SpeckleView&reg; technology has years of clinical research evide
   Andrew Dunn was awarded the TAMEST ....
   </p>
   <p>
-        <h2> Publications related to Dynamic Light's technology </h2>
+        <h2> Publications Related to Dynamic Ligh </h2>
  </p>
 </div> 
  
