@@ -19,10 +19,6 @@ Dynamic Light's SpeckleView&reg; technology has years of clinical research evide
  
 
 <div style="float:left;width:auto;margin-right:10px;"> 
-  <iframe src="https://flimp.me/DL-Footage-Embed?em=Y&autostart=y"  webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder="0"  style="width: 360px; height: 325px;">
+  <iframe src="https://www.youtube.com/watch?v=v2r_JE6LYa8"  webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder="0"  style="width: 360px; height: 325px;">
   </iframe>
 </div>
-<div style="float:left;width:auto;"> 
-  <iframe src="https://flimp.me/ICG-Embed?em=Y&autostart=y" webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder="0"  style="width: 360px; height: 325px;">
-  </iframe>
-</div> <div style="clear:both;height:1em;"></div>
