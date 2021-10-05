@@ -20,7 +20,7 @@ Dynamic Light's SpeckleView&reg; technology has 20 years of research evidence to
 </div>
 <div>
   <p>
-        <h2> Publications Related to Dynamic Light </h2>
+        <h2> Peer-Reviewed Publications Related to Dynamic Light </h2>
  </p>
 </div> 
 
