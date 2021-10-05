@@ -35,7 +35,7 @@ subtitle: About Us
 		<center> <h1> Board of Directors </h1> 
 			<div id="index-gallery;width=auto;">
 				<div class="item-small">
-    					<img src="/img/EHoff_headshot.jpeg" alt="" style="width:130px;height:130px"/>
+    					<img src="/img/EH22_cropped_square.jpg" alt="" style="width:130px;height:130px"/>
 					Elizabeth Hoff
   				</div>
 				 <div class="item-small">
