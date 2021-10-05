@@ -11,10 +11,12 @@ Dynamic Light's SpeckleView&reg; technology has years of clinical research evide
  </p>
  <p>
   Andrew Dunn was awarded the 2017 TAMEST Edith and Peter O’Donnell Award in Engineering for his pioneering work in developing laser speckle contrast imaging for neurosurgical applications to visualize blood flow during surgery.
-  
+</div>  
+<div>
   	<p align="center">
 <iframe src="https://www.youtube.com/embed/v2r_JE6LYa8"  webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder="0"  style="width: 95%; height: 420px;"></iframe>
 	</p>
+</div>
   
   <iframe width="420" height="315"
 src="https://www.youtube.com/embed/v2r_JE6LYa8" webkitallowfullscreen mozallowfullscreen allowfullscreen> 
