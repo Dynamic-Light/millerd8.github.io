@@ -52,9 +52,23 @@ T. A. Clark, C. T. Sullender, D. Jacob, Y. Zuo, A. K. Dunn, and T. A. Jones, <ci
 T. A. Clark, C. T. Sullender, S. M. S. Kazmi, B. L. Speetles, M. R. Williamson, D. M. Palmberg, A. K. Dunn, and T. A. Jones, <cite>Scientific Reports</cite> (2019)
 </div>
 <div style="clear:both;height:0.2em;"></div>
-
-
-
+<div>
+<h3>2018</h3>
+<h4> 	<a href="https://doi.org/10.1016/j.bpsc.2018.12.002"> Awake Mouse Imaging: From Two-Photon Microscopy to Blood Oxygen–Level Dependent Functional Magnetic Resonance Imaging </a> </h4>
+M. Desjardins, K. Kılıç, M. Thunemann, C. Mateo, D. Holland, C. G.L. Ferri, J. A Cremonesi, B. Li, Q. Cheng, K. L. Weldy, P. A. Saisan, D. Kleinfeld, T. Komiyama, T. T. Liu, R. Bussell, E. C. Wong, M. Scadeng, A. K. Dunn, D. A. Boas, S. Sakadžić, J. B. Mandeville, R. B. Buxton, A. M. Dale, and A. Devor, <cite>Biological Psychiatry: Cognitive Neuroscience and Neuroimaging</cite> (2018)
+<div style="clear:both;height:0.2em;"></div>
+<h4> 	<a href="https://doi.org/10.1161/STROKEAHA.118.022888"> Extracellular Vimentin/VWF (von Willebrand Factor) Interaction Contributes to VWF String Formation and Stroke Pathology </a> </h4>
+T. A. Fasipe, S-H. Hong, Q. Da, C. Valladolid, M. T. Lahey, L. M. Richards, A. K. Dunn, M. A. Cruz, and S. P. Marrelli, <cite>Stroke</cite> (2018)
+<div style="clear:both;height:0.2em;"></div>
+<h4> 	<a href="https://doi.org/10.1117/1.NPh.5.3.035003"> Imaging of cortical oxygen tension and blood flow following targeted photothrombotic stroke </a> </h4>
+C. T. Sullender, A. E. Mark, T. A. Clark, T. V. Esipova, S. A. Vinogradov, T. A. Jones, and A. K. Dunn, <cite>Neurophotonics</cite> (2018)
+<div style="clear:both;height:0.2em;"></div>
+<h4> 	<a href="https://doi.org/10.1016/j.jneumeth.2017.12.001"> Nanoelectronics enabled chronic multimodal neural platform in a mouse ischemic model </a> </h4>
+L. Luan, C. T. Sullender, X. Li, Z. Zhao, H. Zhu, X. Wei, C. Xie, and A. K. Dunn, <cite>Journal of Neuroscience Methods</cite> (2018)
+</div>
+<div style="clear:both;height:0.2em;"></div>
+<div>
+<h3>2017</h3>
 
 
 
