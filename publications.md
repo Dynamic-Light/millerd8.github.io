@@ -175,6 +175,23 @@ D. A. Boas and A. K. Dunn, <cite>Journal of Biomedical Optics</cite> (2010)
 <div style="clear:both;height:0.2em;"></div>
 <div>
 <h3>2009</h3>
+<h4> 	<a href="https://doi.org/https://doi.org/10.1002/lsm.20803"> Perfusion in hamster skin treated with glycerol </a> </h4>
+R. T. Zaman, A. B. Parthasarathy, G. Vargas, B. Chen, A. K. Dunn, H. G. Rylander, and A. J. Welch, <cite>Lasers in Surgery and Medicine</cite> (2009)
+<div style="clear:both;height:0.2em;"></div>
+<h4> 	<a href="https://doi.org/10.1117/1.3210779"> Sensitivity of neural-hemodynamic coupling to alterations in cerebral blood flow during hypercapnia. </a> </h4>
+T. J. Huppert, P. B. Jones, A. Devor, A. K. Dunn, I. C. Teng, A. M. Dale, and D. A. Boas, <cite>Journal of Biomedical Optics</cite> (2009)
+<div style="clear:both;height:0.2em;"></div>
+<div>
+<h3>2008</h3>
+<h4> 	<a href="https://doi.org/https://doi.org/10.1523/JNEUROSCI.4307-08.2008"> Stimulus-induced changes in blood flow and 2-deoxyglucose uptake dissociate in ipsilateral somatosensory cortex </a> </h4>
+A. Devor, E. Hillman, P. Tian, C. Waeber, I. C. Teng, L. Ruvinskaya, M. H. Shalinsky, H. Zhu, R. H. Haslinger, S. N. Narayanan, I. Ulbert, A. K. Dunn, E. H. Lo, B. R. Rosen, A. M. Dale, D. Kleinfeld, and D. A. Boas, <cite>The Journal of Neuroscience</cite> (2008)
+<div style="clear:both;height:0.2em;"></div>
+<h4> 	<a href="https://doi.org/10.1364/OE.16.001975"> Robust flow measurement with multi-exposure speckle imaging. </a> </h4>
+A. B. Parthasarathy, W. J. Tom, A. Gopal, X. Zhang, and A. K. Dunn, <cite>Optics Express</cite> (2008)
+<div style="clear:both;height:0.2em;"></div>
+<div>
+<h3>2007</h3>
+
 
 
 
