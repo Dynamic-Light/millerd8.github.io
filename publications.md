@@ -108,7 +108,20 @@ C. J. Schrandt, S. M. S. Kazmi, T. A. Jones, and A. K. Dunn, <cite>Journal of Ce
 <div style="clear:both;height:0.2em;"></div>
 <div>
 <h3>2014</h3>
-
+<h4> 	<a href="https://doi.org/https://doi.org/10.1117/1.NPh.1.1.015006"> Intraoperative laser speckle contrast imaging with retrospective motion correction for quantitative assessment of cerebral blood flow </a> </h4>
+L. M. Richards, E. L. Towle, D. J. Fox, and A. K. Dunn, <cite>Neurophotonics</cite> (2014)
+<div style="clear:both;height:0.2em;"></div>
+<h4> 	<a href="https://doi.org/10.1117/1.JBO.19.8.086001"> Imaging depth and multiple scattering in laser speckle contrast imaging </a> </h4>
+M. A. Davis, S. M. S. Kazmi, A. K. Dunn, <cite>Journal of Biomedical Optics</cite> (2014)
+<div style="clear:both;height:0.2em;"></div>
+<h4> 	<a href="https://doi.org/10.1364/BOE.5.002157"> Optimization of camera exposure durations for multi-exposure speckle imaging of the microcirculation </a> </h4>
+S. M. S. Kazmi, S. Balial, A. K. Dunn, <cite>Biomedical Optics Express</cite> (2014)
+<div style="clear:both;height:0.2em;"></div>
+<h4> 	<a href="https://doi.org/10.1074/jbc.M113.541573"> Loss of Syndecan-1 Induces a Pro-Inflammatory Phenotype in Endothelial Cells with a Dysregulated Response to Atheroprotective Flow </a> </h4>
+P. L. Voyvodic, D. Min, R. Liu, E. Williams, V. Chitalia, A. K. Dunn, A. B. Baker, <cite>The Journal of Biological Chemistry</cite> (2014)
+<div style="clear:both;height:0.2em;"></div>
+<div>
+<h3>2013</h3>
 
 
 
