@@ -183,7 +183,7 @@ T. J. Huppert, P. B. Jones, A. Devor, A. K. Dunn, I. C. Teng, A. M. Dale, and D.
 <div style="clear:both;height:0.2em;"></div>
 <div>
 <h3>2008</h3>
-<h4> 	<a href="https://doi.org/https://doi.org/10.1523/JNEUROSCI.4307-08.2008"> Stimulus-induced changes in blood flow and 2-deoxyglucose uptake dissociate in ipsilateral somatosensory cortex </a> </h4>
+<h4> 	<a href="https://doi.org/10.1523/JNEUROSCI.4307-08.2008"> Stimulus-induced changes in blood flow and 2-deoxyglucose uptake dissociate in ipsilateral somatosensory cortex </a> </h4>
 A. Devor, E. Hillman, P. Tian, C. Waeber, I. C. Teng, L. Ruvinskaya, M. H. Shalinsky, H. Zhu, R. H. Haslinger, S. N. Narayanan, I. Ulbert, A. K. Dunn, E. H. Lo, B. R. Rosen, A. M. Dale, D. Kleinfeld, and D. A. Boas, <cite>The Journal of Neuroscience</cite> (2008)
 <div style="clear:both;height:0.2em;"></div>
 <h4> 	<a href="https://doi.org/10.1364/OE.16.001975"> Robust flow measurement with multi-exposure speckle imaging. </a> </h4>
@@ -196,14 +196,36 @@ A. J. Strong, P. J. Anderson, H. R. Watts, D. J. Virley, A. Lloyd, E. A. Irving,
 <div style="clear:both;height:0.2em;"></div>
 <div>
 <h3>2006</h3>
-<h4> 	<a href="https://doi.org/https://doi.org/10.1038/sj.jcbfm.9600252"> Vasoconstrictive neurovascular coupling during focal ischemic depolarizations </a> </h4>
+<h4> 	<a href="https://doi.org/10.1038/sj.jcbfm.9600252"> Vasoconstrictive neurovascular coupling during focal ischemic depolarizations </a> </h4>
 H. K. Shin, A. K. Dunn, P. B. Jones, D. A. Boas, M. A. Moskowitz, and C. Ayata, <cite>Journal of Cerebral Blood Flow &amp; Metabolism</cite> (2006)
 <div style="clear:both;height:0.2em;"></div>
-<h4> 	<a href="https://doi.org/https://doi.org/sj.jcbfm.9600240"> Evaluation of laser speckle flowmetry for imaging cortical perfusion in experimental stroke studies: quantitation of perfusion and detection of peri-infarct depolarisations </a> </h4>
+<h4> 	<a href="https://doi.org/sj.jcbfm.9600240"> Evaluation of laser speckle flowmetry for imaging cortical perfusion in experimental stroke studies: quantitation of perfusion and detection of peri-infarct depolarisations </a> </h4>
 A. J. Strong, E. L. Bezzina, P. J. Anderson, M. G. Boutelle, S. E. Hopwood, and A. K. Dunn, <cite>Journal of Cerebral Blood Flow &amp; Metabolism</cite> (2006)
 <div style="clear:both;height:0.2em;"></div>
 <div>
 <h3>2005</h3>
+<h4> 	<a href="https://doi.org/10.1016/j.neuroimage.2005.04.024"> Spatial extent of oxygen metabolism and hemodynamic changes during functional activation of the rat somatosensory cortex </a> </h4>
+A. K. Dunn, A. Devor, A. M. Dale, and D. A. Boas, <cite>NeuroImage</cite> (2005)
+<div style="clear:both;height:0.2em;"></div>
+<h4> 	<a href="https://doi.org/10.1364/AO.44.001823"> Determination of optimal exposure time for imaging of blood flow changes with laser speckle contrast imaging </a> </h4>
+S. Yuan, A. Devor, D. A. Boas, and A. K. Dunn, <cite>Applied Optics</cite> (2005)
+<div style="clear:both;height:0.2em;"></div>
+<div>
+<h3>2004</h3>
+<h4> 	<a href="https://doi.org/10.1097/01.WCB.0000137057.92786.F3"> Pronounced hypoperfusion during spreading depression in mouse cortex </a> </h4>
+C. Ayata, H. K. Shin, S. Salomone, Y. Ozdemir-Gursoy, D. A. Boas, A. K Dunn, and M. A. Moskowitz, <cite>Journal of Cerebral Blood Flow &amp; Metabolism</cite> (2004)
+<div style="clear:both;height:0.2em;"></div>
+<h4> 	<a href="https://doi.org/10.1161/01.STR.0000137412.35700.0e"> Mouse model of microembolic stroke and reperfusion </a> </h4>
+D. N. Atochin, J. C. Murciano, Y. Gürsoy-Özdemir, T. Krasik, F. Noda, C. Ayata, A. K. Dunn, M. A. Moskowitz, P. L. Huang, and V. R. Muzykantov, <cite>Stroke</cite> (2004)
+<div style="clear:both;height:0.2em;"></div>
+<h4> 	<a href="https://doi.org/10.1097/01.WCB.0000122745.72175.D5"> Laser speckle flowmetry for the study of cerebrovascular physiology in normal and ischemic mouse cortex </a> </h4>
+C. Ayata, A. K. Dunn, Y. Gursoy-OZdemir, Z. Huang, D. A. Boas, and M. A. Moskowitz, <cite>Journal of Cerebral Blood Flow &amp; Metabolism</cite> (2004)
+<div style="clear:both;height:0.2em;"></div>
+<div>
+<h3>2003</h3>
+	
+	
+	
 
 
 
