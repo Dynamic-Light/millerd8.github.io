@@ -29,6 +29,7 @@ avatar: "/img/Dynamic_Light_Square_Logo.png"
 navbar-links:
   Home: ""
   Technology: "technology"
+  Publications: "publications"
   #Research: "research"
   #Events: "events"
   #Blog: "blog"
