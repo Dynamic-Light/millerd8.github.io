@@ -14,22 +14,12 @@ subtitle: SpeckleView&reg; Technology
 </div>
 
 <div style="float:left;width:auto;margin-right:10px;"> 
-
-  <iframe src="https://player.vimeo.com/video/624576959?autoplay=1&loop=1&autopause=0"  webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder="0"  style="width: 360px; height: 325px;">
-  </iframe>
-<div style="float:left;width:auto;"> 
-  <iframe src="https://player.vimeo.com/video/624583772?h=4998e0a798" webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder="0"  style="width: 360px; height: 325px;">
-  </iframe>
-</div> <div style="clear:both;height:1em;"></div>
-  
-  <iframe src="https://player.vimeo.com/video/624583772?h=4998e0a798" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-  
-  <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/624576959?h=cc11260989&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Speckle_2_Occlusion.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-  
-    <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/624576959?h=cc11260989&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:45%;height:45%;" title="Speckle_2_Occlusion.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-  
-      <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/4998e0a798?h=cc11260989&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:400;width:45%;height:45%;" title="Speckle_2_Occlusion.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
+  <iframe src="https://player.vimeo.com/video/624576959?h=cc11260989&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="360" height="325" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Speckle_2_Occlusion.mp4"></iframe>
+</div>
+  <div style="float:right;width:auto;"> 
+  <iframe src="https://player.vimeo.com/video/624583772?h=4998e0a798&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="360" height="325" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="ICG_2_Occlusion.mp4"></iframe>
+</div> 
+<div style="clear:both;height:1em;"></div>
   <p>
      Dynamic Light's technology, which does not require the injection of a dye, provides high-quality blood flow images continuously. In the image, red indicates high flow and blue indicates no flow.
   </p>
