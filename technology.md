@@ -15,11 +15,8 @@ subtitle: SpeckleView&reg; Technology
 
 <div style="float:left;width:auto;margin-right:10px;"> 
 
-  <iframe src="https://player.vimeo.com/api/player.js"  webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder="0"  style="width: 360px; height: 325px;">
+  <iframe src="https://player.vimeo.com/video/624576959?autoplay=1&loop=1&autopause=0"  webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder="0"  style="width: 360px; height: 325px;">
   </iframe>
-  <!--
-    <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/624576959?h=cc11260989&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:45%;height:100%;" title="Speckle_2_Occlusion.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
--->  
 <div style="float:left;width:auto;"> 
   <iframe src="https://player.vimeo.com/video/624583772?h=4998e0a798" webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder="0"  style="width: 360px; height: 325px;">
   </iframe>
