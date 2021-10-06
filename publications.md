@@ -133,6 +133,17 @@ S. M. S. Kazmi, A. B. Parthasarthy, N. E. Song, T. A. Jones, and A. K. Dunn, <ci
 <div style="clear:both;height:0.2em;"></div>
 <div>
 <h3>2012</h3>
+<h4> 	<a href="https://doi.org/https://doi.org/10.1227/NEU.0b013e31826adf88"> Comparison of indocyanine green angiography and laser speckle contrast imaging for the assessment of vasculature perfusion </a> </h4>
+E. L. Towle, L. M. Richards, S. M. S. Kazmi, D. J. Fox, and A. K. Dunn, <cite>Neurosurgery</cite> (2012)
+<div style="clear:both;height:0.2em;"></div>
+<h4> 	<a href="https://doi.org/10.1117/1.JBO.18.9.090501"> Laser speckle contrast imaging of cerebral blood flow </a> </h4>
+A. K. Dunn, <cite>Annals of Biomedical Engineering</cite> (2012)
+<div style="clear:both;height:0.2em;"></div>
+<h4> 	<a href="https://doi.org/10.1007/s10439-011-0469-0"> Chronic imaging of cortical blood flow using Multi-Exposure Speckle Imaging </a> </h4>
+S. M. S. Kazmi, A. B. Parthasarthy, N. E. Song, T. A. Jones, and A. K. Dunn, <cite>Journal of Cerebral Blood Flow &amp; Metabolism</cite> (2013)
+<div style="clear:both;height:0.2em;"></div>
+<div>
+<h3>2011</h3>
 	
 	
 
