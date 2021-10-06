@@ -122,7 +122,19 @@ P. L. Voyvodic, D. Min, R. Liu, E. Williams, V. Chitalia, A. K. Dunn, A. B. Bake
 <div style="clear:both;height:0.2em;"></div>
 <div>
 <h3>2013</h3>
-
+<h4> 	<a href="https://doi.org/https://doi.org/10.1364/BOE.4.002269"> Low-cost laser speckle contrast imaging of blood flow using a webcam </a> </h4>
+L. M. Richards, S. M. S. Kazmi, J. L. Davis, K. E. Olin, and A. K. Dunn, <cite>Biomedical Optics Express</cite> (2013)
+<div style="clear:both;height:0.2em;"></div>
+<h4> 	<a href="https://doi.org/10.1117/1.JBO.18.9.090501"> Laser speckle contrast imaging of blood flow in rat retinas using an endoscope </a> </h4>
+A. Ponticorvo, D. Cardenas, A. K. Dunn, D. Ts’o, and T. Q. Duong, <cite>Journal of Biomedical Optics</cite> (2013)
+<div style="clear:both;height:0.2em;"></div>
+<h4> 	<a href="https://doi.org/10.1038/jcbfm.2013.57"> Chronic imaging of cortical blood flow using Multi-Exposure Speckle Imaging </a> </h4>
+S. M. S. Kazmi, A. B. Parthasarthy, N. E. Song, T. A. Jones, and A. K. Dunn, <cite>Journal of Cerebral Blood Flow &amp; Metabolism</cite> (2013)
+<div style="clear:both;height:0.2em;"></div>
+<div>
+<h3>2012</h3>
+	
+	
 
 
 
