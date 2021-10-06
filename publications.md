@@ -42,9 +42,16 @@ M.-C. Ding, A. Kundu, C. T. Sullender, and A. K. Dunn, <cite>bioRxiv</cite> (202
 <h4> 	<a href="https://doi.org/10.1126/sciadv.aba1933"> Multimodal mapping of neural activity and cerebral blood flow reveals long-lasting neurovascular dissociations after small-scale strokes</a> </h4>
 F. Hei, C. T. Sullender, H. Zhu, M. Williamson, X. Li, Z. Zhao, T. A. Jones, C. Xie, A. K. Dunn, and L. Luan, <cite>Science Advances</cite> (2020)
 </div>
-
-
-
+<div style="clear:both;height:0.2em;"></div>
+<div>
+<h3>2019</h3>
+<h4> 	<a href="https://doi.org/10.1523/JNEUROSCI.1141-19.2019"> Rehabilitative training interacts with ischemia-instigated spine dynamics to promote a lasting population of new synapses in peri-infarct motor cortex </a> </h4>
+T. A. Clark, C. T. Sullender, D. Jacob, Y. Zuo, A. K. Dunn, and T. A. Jones, <cite>Journal of Neuroscience</cite> (2019)
+<div style="clear:both;height:0.2em;"></div>
+<h4> 	<a href="https://doi.org/10.1038/s41598-019-39092-7"> Artery targeted photothrombosis widens the vascular penumbra, instigates peri-infarct neovascularization and models forelimb impairments </a> </h4>
+T. A. Clark, C. T. Sullender, S. M. S. Kazmi, B. L. Speetles, M. R. Williamson, D. M. Palmberg, A. K. Dunn, and T. A. Jones, <cite>Scientific Reports</cite> (2019)
+</div>
+<div style="clear:both;height:0.2em;"></div>
 
 
 
