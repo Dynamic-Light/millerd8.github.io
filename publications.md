@@ -32,7 +32,12 @@ C. T. Sullender, L. M. Richards, F. He, L. Luan, and A. K. Dunn, <cite>bioRxiv</
 <h4> 	<a href="https://doi.org/10.1101/2021.04.29.21254954"> Laser speckle contrast imaging for visualizing blood flow during cerebral aneurysm surgery: A comparison with indocyanine green angiography</a> </h4>
 D. R. Miller, R. Ashour, C. T. Sullender, and A. K. Dunn, <cite>medRxiv</cite> (2021)
 </div>
+<div style="clear:both;height:0.2em;"></div>
+<div>
+<h3>2020</h3>
+<h4> 	<a href="https://doi.org/10.1364/BOE.401235"> Effect of vascular structure on laser speckle contrast imaging</a> </h4>
+C. Z. Jafari, C. T. Sullender, D. R. Miller, S. A. Mihelic, and A. K. Dunn, <cite>Biomedical Optics Express</cite> (2020)
+</div>
 <div style="clear:both;height:0.1em;"></div>
-
 	
 
