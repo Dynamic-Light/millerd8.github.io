@@ -191,7 +191,19 @@ A. B. Parthasarathy, W. J. Tom, A. Gopal, X. Zhang, and A. K. Dunn, <cite>Optics
 <div style="clear:both;height:0.2em;"></div>
 <div>
 <h3>2007</h3>
-
+<h4> 	<a href="https://doi.org/https://doi.org/10.1093/brain/awl392"> Peri-infarct depolarizations lead to loss of perfusion in ischaemic gyrencephalic cerebral cortex </a> </h4>
+A. J. Strong, P. J. Anderson, H. R. Watts, D. J. Virley, A. Lloyd, E. A. Irving, T. Nagafuji, M. Ninomiya, H. Nakamura, A. K. Dunn, and R. Graf, <cite>Brain</cite> (2007)
+<div style="clear:both;height:0.2em;"></div>
+<div>
+<h3>2006</h3>
+<h4> 	<a href="https://doi.org/https://doi.org/10.1038/sj.jcbfm.9600252"> Vasoconstrictive neurovascular coupling during focal ischemic depolarizations </a> </h4>
+H. K. Shin, A. K. Dunn, P. B. Jones, D. A. Boas, M. A. Moskowitz, and C. Ayata, <cite>Journal of Cerebral Blood Flow &amp; Metabolism</cite> (2006)
+<div style="clear:both;height:0.2em;"></div>
+<h4> 	<a href="https://doi.org/https://doi.org/sj.jcbfm.9600240"> Evaluation of laser speckle flowmetry for imaging cortical perfusion in experimental stroke studies: quantitation of perfusion and detection of peri-infarct depolarisations </a> </h4>
+A. J. Strong, E. L. Bezzina, P. J. Anderson, M. G. Boutelle, S. E. Hopwood, and A. K. Dunn, <cite>Journal of Cerebral Blood Flow &amp; Metabolism</cite> (2006)
+<div style="clear:both;height:0.2em;"></div>
+<div>
+<h3>2005</h3>
 
 
 
