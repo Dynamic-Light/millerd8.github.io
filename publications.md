@@ -69,7 +69,14 @@ L. Luan, C. T. Sullender, X. Li, Z. Zhao, H. Zhu, X. Wei, C. Xie, and A. K. Dunn
 <div style="clear:both;height:0.2em;"></div>
 <div>
 <h3>2017</h3>
-
+<h4> 	<a href="https://doi.org/10.1089/ten.tea.2016.0508"> Glioblastoma exosomes for therapeutic angiogenesis in peripheral ischemia </a> </h4>
+M. Desjardins, K. Kılıç, M. Thunemann, C. Mateo, D. Holland, C. G.L. Ferri, J. A Cremonesi, B. Li, Q. Cheng, K. L. Weldy, P. A. Saisan, D. Kleinfeld, T. A. Monteforte, B. Lam, M. B. Sherman, K. Henderson, A. D. Sligar, A. Spencer, B. Tang, A. K. Dunn, and A. B. Baker, <cite>Tissue Engineering Part A</cite> (2017)
+<div style="clear:both;height:0.2em;"></div>
+<h4> 	<a href="https://doi.org/10.1177/0271678X16686987"> Intraoperative multi-exposure speckle imaging of cerebral blood flow </a> </h4>
+L. M. Richards, S. M. S. Kazmi, K. E. Olin, J. S. Waldron, D. J. Fox, and A. K. Dunn, <cite>Journal of Cerebral Blood Flow &amp; Metabolism</cite> (2017)
+<div style="clear:both;height:0.2em;"></div>
+<div>
+<h3>2016</h3>
 
 
 
