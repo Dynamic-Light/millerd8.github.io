@@ -25,8 +25,10 @@ Dynamic Light's SpeckleView&reg; technology has 20 years of research evidence to
 </div> 
 <div>
 <h3>2021</h3>
-<h5> 	<a href="https://doi.org/10.1101/2020.06.26.174227"> Dynamics of isoflurane-induced vasodilation and blood flow of cerebral vasculature revealed by multi-exposure speckle imaging</a> </h5>
+<h4> 	<a href="https://doi.org/10.1101/2020.06.26.174227"> Dynamics of isoflurane-induced vasodilation and blood flow of cerebral vasculature revealed by multi-exposure speckle imaging</a> </h4>
 C. T. Sullender, L. M. Richards, F. He, L. Luan, and A. K. Dunn, <cite>bioRxiv</cite> (2021)
 </div>
+<div style="clear:both;height:0.1em;"></div>
+
 	
 
