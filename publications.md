@@ -139,9 +139,6 @@ E. L. Towle, L. M. Richards, S. M. S. Kazmi, D. J. Fox, and A. K. Dunn, <cite>Ne
 <h4> 	<a href="https://doi.org/10.1007/s10439-011-0469-0"> Laser speckle contrast imaging of cerebral blood flow </a> </h4>
 A. K. Dunn, <cite>Annals of Biomedical Engineering</cite> (2012)
 <div style="clear:both;height:0.2em;"></div>
-<h4> 	<a href="https://doi.org/10.1007/s10439-011-0469-0"> Chronic imaging of cortical blood flow using Multi-Exposure Speckle Imaging </a> </h4>
-S. M. S. Kazmi, A. B. Parthasarthy, N. E. Song, T. A. Jones, and A. K. Dunn, <cite>Journal of Cerebral Blood Flow &amp; Metabolism</cite> (2013)
-<div style="clear:both;height:0.2em;"></div>
 <div>
 <h3>2011</h3>
 <h4> 	<a href="https://doi.org/https://doi.org/10.2174/1874440001105010096"> Measurements and modeling of transient blood flow perturbations induced by brief somatosensory stimulation </a> </h4>
