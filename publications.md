@@ -223,19 +223,14 @@ C. Ayata, A. K. Dunn, Y. Gursoy-OZdemir, Z. Huang, D. A. Boas, and M. A. Moskowi
 <div style="clear:both;height:0.2em;"></div>
 <div>
 <h3>2003</h3>
+<h4> 	<a href="https://doi.org/10.1364/OL.28.000028"> Simultaneous imaging of total cerebral hemoglobin concentration, oxygenation, and blood flow during functional activation </a> </h4>
+A. K. Dunn, A. Devor, H. Bolay, M. L. Andermann, M. A. Moskowitz, A. M. Dale, and D. A. Boas, <cite>Optics Letters</cite> (2003)
+<div style="clear:both;height:0.2em;"></div>
+<h3>2002</h3>
+<h4> 	<a href="https://doi.org/10.1038/nm0202-136"> Intrinsic brain activity triggers trigeminal meningeal afferents in a migraine model </a> </h4>
+H. Bolay, U. Reuter, A. K. Dunn, Z. Huang, D. A. Boas, M. A. Moskowitz, <cite>Nature Medicine</cite> (2002)
+<div style="clear:both;height:0.2em;"></div>
+<h3>2001</h3>
+<h4> 	<a href="https://doi.org/10.1097/00004647-200103000-00002"> Dynamic imaging of cerebral blood flow using laser speckle </a> </h4>
+A. K. Dunn, H. Bolay, M. A. Moskowitz, and D. A. Boas, <cite>Journal of Cerebral Blood Flow &amp; Metabolism</cite> (2001)
 	
-	
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
