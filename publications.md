@@ -91,6 +91,24 @@ M. A. Davis, L. Gagnon, D. A. Boas, and A. K. Dunn, <cite>Biomedical Optics Expr
 <div style="clear:both;height:0.2em;"></div>
 <div>
 <h3>2015</h3>
+<h4> 	<a href="https://doi.org/https://doi.org/10.1364/OL.40.003643"> Evaluating multi-exposure speckle imaging estimates of absolute autocorrelation times </a> </h4>
+S. M. S. Kazmi, R. K. Wu, and A. K. Dunn, <cite>Optics Letters</cite> (2015)
+<div style="clear:both;height:0.2em;"></div>
+<h4> 	<a href="https://doi.org/10.1364/OE.23.017145"> Dynamic light scattering Monte Carlo: a method for simulating time-varying dynamics for ordered motion in heterogeneous media </a> </h4>
+M. A. Davis and A. K. Dunn, <cite>Optics Express</cite> (2015)
+<div style="clear:both;height:0.2em;"></div>
+<h4> 	<a href="https://doi.org/10.1364/BOE.6.002588"> Flux or speed? Examining speckle contrast imaging of vascular flows </a> </h4>
+S. M. S. Kazmi, E. Faraji, M. A. Davis, Y. Huang, X. J. Zhang, and A. K. Dunn, <cite>Biomedical Optics Express</cite> (2015)
+<div style="clear:both;height:0.2em;"></div>
+<h4> 	<a href="https://doi.org/10.1038/jcbfm.2015.84"> Expanding applications, accuracy, and interpretation of laser speckle contrast imaging of cerebral blood flow </a> </h4>
+S. M. S. Kazmi, L. M. Richards, C. J. Schrandt, M. A. Davis, and A. K. Dunn, <cite>Journal of Cerebral Blood Flow &amp; Metabolism</cite> (2015)
+<div style="clear:both;height:0.2em;"></div>
+<h4> 	<a href="https://doi.org/10.1038/jcbfm.2015.26"> Chronic monitoring of vascular progression after ischemic stroke using multiexposure speckle imaging and two-photon fluorescence microscopy. </a> </h4>
+C. J. Schrandt, S. M. S. Kazmi, T. A. Jones, and A. K. Dunn, <cite>Journal of Cerebral Blood Flow &amp; Metabolism</cite> (2015)
+<div style="clear:both;height:0.2em;"></div>
+<div>
+<h3>2014</h3>
+
 
 
 
