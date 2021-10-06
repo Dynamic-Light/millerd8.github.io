@@ -36,7 +36,32 @@ D. R. Miller, R. Ashour, C. T. Sullender, and A. K. Dunn, <cite>medRxiv</cite> (
 <h3>2020</h3>
 <h4> 	<a href="https://doi.org/10.1364/BOE.401235"> Effect of vascular structure on laser speckle contrast imaging</a> </h4>
 C. Z. Jafari, C. T. Sullender, D. R. Miller, S. A. Mihelic, and A. K. Dunn, <cite>Biomedical Optics Express</cite> (2020)
+<div style="clear:both;height:0.2em;"></div>
+<h4> 	<a href="https://doi.org/10.1101/2020.06.08.140582"> Peripheral electrical stimulation augments cerebral collateral circulation if performed within a critical time window</a> </h4>
+M.-C. Ding, A. Kundu, C. T. Sullender, and A. K. Dunn, <cite>bioRxiv</cite> (2020)
+<h4> 	<a href="https://doi.org/10.1126/sciadv.aba1933"> Multimodal mapping of neural activity and cerebral blood flow reveals long-lasting neurovascular dissociations after small-scale strokes</a> </h4>
+F. Hei, C. T. Sullender, H. Zhu, M. Williamson, X. Li, Z. Zhao, T. A. Jones, C. Xie, A. K. Dunn, and L. Luan, <cite>Science Advances</cite> (2020)
 </div>
-<div style="clear:both;height:0.1em;"></div>
-	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
