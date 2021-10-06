@@ -77,6 +77,20 @@ L. M. Richards, S. M. S. Kazmi, K. E. Olin, J. S. Waldron, D. J. Fox, and A. K. 
 <div style="clear:both;height:0.2em;"></div>
 <div>
 <h3>2016</h3>
+<h4> 	<a href="https://doi.org/10.1002/adhm.201600285"> Syndesome therapeutics for enhancing diabetic wound healing </a> </h4>
+S. Das, G. Singh, M. Majid, M. B. Sherman, S. Mukhopadhyay, C. S. Wright, P. E. Martin, A. K. Dunn, and A. B. Baker, <cite>Advanced Healthcare Materials</cite> (2016)
+<div style="clear:both;height:0.2em;"></div>
+<h4> 	<a href="https://doi.org/10.1016/j.biomaterials.2016.03.048"> Glypican-1 nanoliposomes for potentiating growth factor activity in therapeutic angiogenesis </a> </h4>
+A. J. Monteforte, B. Lam, S. Das, S. Mukhopadhyay, C. S. Wright, P. E. Martin, A. K. Dunn, and A. B. Baker, <cite>Biomaterials</cite> (2016)
+<div style="clear:both;height:0.2em;"></div>
+<h4> 	<a href="https://doi.org/10.1002/adhm.201500993"> Syndecan-4 enhances therapeutic angiogenesis after hind limb ischemia in mice with type 2 diabetes </a> </h4>
+S. Das, A. J. Monteforte, G. Singh, M. Majid, M. B. Sherman, A. K. Dunn, and A. B. Baker, <cite>Advanced Healthcare Materials</cite> (2016)
+<div style="clear:both;height:0.2em;"></div>
+<h4> 	<a href="https://doi.org/10.1364/BOE.7.000759"> Sensitivity of laser speckle contrast imaging to flow perturbations in the cortex </a> </h4>
+M. A. Davis, L. Gagnon, D. A. Boas, and A. K. Dunn, <cite>Biomedical Optics Express</cite> (2016)
+<div style="clear:both;height:0.2em;"></div>
+<div>
+<h3>2015</h3>
 
 
 
