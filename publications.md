@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dynamic Light
-subtitle: Publications
+subtitle: Based On 20 Years of Research
 ---
 <div>
   <p>
