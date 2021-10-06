@@ -21,6 +21,8 @@ subtitle: SpeckleView&reg; Technology
   <iframe src="https://player.vimeo.com/video/624583772?h=4998e0a798" webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder="0"  style="width: 360px; height: 325px;">
   </iframe>
 </div> <div style="clear:both;height:1em;"></div>
+  
+  <iframe src="https://player.vimeo.com/video/624583772?h=4998e0a798" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
   <p>
      Dynamic Light's technology, which does not require the injection of a dye, provides high-quality blood flow images continuously. In the image, red indicates high flow and blue indicates no flow.
