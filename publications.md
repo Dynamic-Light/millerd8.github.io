@@ -155,8 +155,26 @@ H. Karatas, S. E. Erdener, Y. Gursoy-Ozdemir, G. Gurer, F. Soylemezoglu, A. K. D
 <div style="clear:both;height:0.2em;"></div>
 <div>
 <h3>2010</h3>
-
-
+<h4> 	<a href="https://doi.org/https://doi.org/10.1117/1.3526368"> Laser speckle contrast imaging of cerebral blood flow in humans during neurosurgery: a pilot clinical study </a> </h4>
+A. B. Parthasarathy, E. L. Weber, L. M. Richards, D. J. Fox, and A. K. Dunn, <cite>Journal of Biomedical Optics</cite> (2010)
+<div style="clear:both;height:0.2em;"></div>
+<h4> 	<a href="https://doi.org/10.3791/2004"> How to build a Laser Speckle Contrast Imaging (LSCI) system to monitor blood flow. </a> </h4>
+A. Ponticorvo and A. K. Dunn, <cite>Journal of Visualized Experiments</cite> (2010)
+<div style="clear:both;height:0.2em;"></div>
+<h4> 	<a href="https://doi.org/10.1364/BOE.1.000246"> Quantitative imaging of ischemic stroke through thinned skull in mice with Multi Exposure Speckle Imaging </a> </h4>
+A. B. Parthasarathy, S. M. S. Kazmi, and A. K. Dunn, <cite>Biomedical Optics Express</cite> (2010)
+<div style="clear:both;height:0.2em;"></div>
+<h4> 	<a href="https://doi.org/10.1093/brain/awq117"> Spreading depolarizations cycle around and enlarge focal ischaemic brain lesions. </a> </h4>
+H. Nakamura, A. J. Strong, C. Dohmen, O. W. Sakowitz, S. Vollmar, M. Sue, L. Kracht, P. Hashemi, R. Bhatia, T. Yoshimine, J. P. Dreier, A. K. Dunn, and R. Graf, <cite>Brain</cite> (2010)
+<div style="clear:both;height:0.2em;"></div>
+<h4> 	<a href="https://doi.org/10.1364/OE.18.008160"> Simultaneous imaging of oxygen tension and blood flow in animals using a digital micromirror device </a> </h4>
+A. Ponticorvo and A. K. Dunn, <cite>Optics Express</cite> (2010)
+<div style="clear:both;height:0.2em;"></div>
+<h4> 	<a href="https://doi.org/10.1117/1.3285504"> Laser speckle contrast imaging in biomedical optics </a> </h4>
+D. A. Boas and A. K. Dunn, <cite>Journal of Biomedical Optics</cite> (2010)
+<div style="clear:both;height:0.2em;"></div>
+<div>
+<h3>2009</h3>
 
 
 
