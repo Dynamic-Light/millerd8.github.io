@@ -27,8 +27,7 @@ Dynamic Light's SpeckleView&reg; technology has 20 years of research evidence to
 <h3>2021</h3>
 <h4> 	<a href="https://doi.org/10.1101/2020.06.26.174227"> Dynamics of isoflurane-induced vasodilation and blood flow of cerebral vasculature revealed by multi-exposure speckle imaging</a> </h4>
 C. T. Sullender, L. M. Richards, F. He, L. Luan, and A. K. Dunn, <cite>bioRxiv</cite> (2021)
-</div>
-<div style="clear:both;height:0.1em;"></div>
+<div style="clear:both;height:0.2em;"></div>
 <h4> 	<a href="https://doi.org/10.1101/2021.04.29.21254954"> Laser speckle contrast imaging for visualizing blood flow during cerebral aneurysm surgery: A comparison with indocyanine green angiography</a> </h4>
 D. R. Miller, R. Ashour, C. T. Sullender, and A. K. Dunn, <cite>medRxiv</cite> (2021)
 </div>
