@@ -196,7 +196,7 @@ A. J. Strong, P. J. Anderson, H. R. Watts, D. J. Virley, A. Lloyd, E. A. Irving,
 <h4> 	<a href="https://doi.org/10.1038/sj.jcbfm.9600252"> Vasoconstrictive neurovascular coupling during focal ischemic depolarizations </a> </h4>
 H. K. Shin, A. K. Dunn, P. B. Jones, D. A. Boas, M. A. Moskowitz, and C. Ayata, <cite>Journal of Cerebral Blood Flow &amp; Metabolism</cite> (2006)
 <div style="clear:both;height:0.2em;"></div>
-<h4> 	<a href="https://doi.org/sj.jcbfm.9600240"> Evaluation of laser speckle flowmetry for imaging cortical perfusion in experimental stroke studies: quantitation of perfusion and detection of peri-infarct depolarisations </a> </h4>
+<h4> 	<a href="https://doi.org/10.1038/sj.jcbfm.9600240"> Evaluation of laser speckle flowmetry for imaging cortical perfusion in experimental stroke studies: quantitation of perfusion and detection of peri-infarct depolarisations </a> </h4>
 A. J. Strong, E. L. Bezzina, P. J. Anderson, M. G. Boutelle, S. E. Hopwood, and A. K. Dunn, <cite>Journal of Cerebral Blood Flow &amp; Metabolism</cite> (2006)
 <div style="clear:both;height:0.2em;"></div>
 <div>
