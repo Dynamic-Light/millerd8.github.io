@@ -144,8 +144,17 @@ S. M. S. Kazmi, A. B. Parthasarthy, N. E. Song, T. A. Jones, and A. K. Dunn, <ci
 <div style="clear:both;height:0.2em;"></div>
 <div>
 <h3>2011</h3>
-	
-	
+<h4> 	<a href="https://doi.org/https://doi.org/10.2174/1874440001105010096"> Measurements and modeling of transient blood flow perturbations induced by brief somatosensory stimulation </a> </h4>
+K. Swanul, A. K. Dunn, T. Q. Duong, and D. Ress, <cite>The Open Neuroimaging Journal</cite> (2011)
+<div style="clear:both;height:0.2em;"></div>
+<h4> 	<a href="https://doi.org/10.1364/BOE.2.001861"> Introduction: feature issue on In Vivo Microcirculation Imaging </a> </h4>
+A. K. Dunn, R. Leitgeb, R. K. Wang, and H. F. Zhang, <cite>Biomedical Optics Express</cite> (2011)
+<div style="clear:both;height:0.2em;"></div>
+<h4> 	<a href="https://doi.org/10.1038/jcbfm.2011.8"> Thrombotic distal middle cerebral artery occlusion produced by topical FeCl3 application: a novel model suitable for intravital microscopy and thrombolysis studies </a> </h4>
+H. Karatas, S. E. Erdener, Y. Gursoy-Ozdemir, G. Gurer, F. Soylemezoglu, A. K. Dunn, and T. Dalkara, <cite>Journal of Cerebral Blood Flow &amp; Metabolism</cite> (2011)
+<div style="clear:both;height:0.2em;"></div>
+<div>
+<h3>2010</h3>
 
 
 
