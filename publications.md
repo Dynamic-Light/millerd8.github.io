@@ -29,6 +29,10 @@ Dynamic Light's SpeckleView&reg; technology has 20 years of research evidence to
 C. T. Sullender, L. M. Richards, F. He, L. Luan, and A. K. Dunn, <cite>bioRxiv</cite> (2021)
 </div>
 <div style="clear:both;height:0.1em;"></div>
+<h4> 	<a href="https://doi.org/10.1101/2021.04.29.21254954"> Laser speckle contrast imaging for visualizing blood flow during cerebral aneurysm surgery: A comparison with indocyanine green angiography</a> </h4>
+D. R. Miller, R. Ashour, C. T. Sullender, and A. K. Dunn, <cite>medRxiv</cite> (2021)
+</div>
+<div style="clear:both;height:0.1em;"></div>
 
 	
 
