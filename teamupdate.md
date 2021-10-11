@@ -10,9 +10,11 @@ subtitle: About Us
 	<p> 
 		<center> <h1> Leadership </h1> 
 			<div id="index-gallery;width=auto;">
+				    <p style="text-align: center;">
     					<img src="/img/EH22_cropped_square_v2.png" alt="" style="width:170px;height:170px"/>
     					<img src="/img/DavidMillerHeadshot_v2.png" alt="" style="width:160px;height:170px"/>
     					<img src="/img/Dunn-Andrew-4.png" alt="" style="width:170px;height:170px"/>
+				</p>
 			</div> 
 		</center>
 	</p>
