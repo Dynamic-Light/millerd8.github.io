@@ -10,16 +10,19 @@ subtitle: About Us
 	<p> 
 		<center> <h1> Leadership </h1> 
 			<div id="index-gallery;width=auto;">
+  				<div class="item-img">	 
+					<br>
+				</div>
 				<div class="item">
-    					<img src="/img/EHoff_headshot.jpeg" alt="" style="width:32%;height:170px"/>
+    					<img src="/img/EH22_cropped_square.jpg" alt="" style="width:170px;height:170px"/>
     					Elizabeth Hoff <br> CEO
   				</div>
 				<div class="item">
-    					<img src="/img/DavidMillerHeadshot.jpg" alt="" style="width:32%;height:170px"/>
+    					<img src="/img/DavidMillerHeadshot.jpg" alt="" style="width:160px;height:170px"/>
     					David Miller PhD <br> VP PM & Eng
   				</div>
 				<div class="item">
-    					<img src="/img/Dunn-Andrew-3.jpg" alt="" style="width:32%;height:170px"/>
+    					<img src="/img/Dunn-Andrew-3.jpg" alt="" style="width:170px;height:170px"/>
     					Andrew Dunn PhD <br> CSO
   				</div>
 			</div> 
@@ -32,24 +35,24 @@ subtitle: About Us
 		<center> <h1> Board of Directors </h1> 
 			<div id="index-gallery;width=auto;">
 				<div class="item-small">
-    					<img src="/img/EHoff_headshot.jpeg" alt="" style="width:130px;height:130px"/>
-					<small> Elizabeth Hoff </small>
+    					<img src="/img/EH22_cropped_square.jpg" alt="" style="width:130px;height:130px"/>
+					Elizabeth Hoff
   				</div>
 				 <div class="item-small">
     					<img src="/img/HollowayPortrait2020Cropped_V2.png" alt="" style="width:130px;height:130px"/>
-    					<small> Jean Holloway JD, MBA</small>
+    					Jean Holloway JD, MBA
   				</div>
 				  <div class="item-small">
     					<img src="/img/BobTeague_cropped_V4.jpg" alt="" style="width:130px;height:130px"/>
-    					<small> Bob Teague MD </small>
+    					Bob Teague MD
 				</div>
 				<div class="item-small">
     					<img src="/img/TonyManuelFinal_V2.png" alt="" style="width:130px;height:130px"/>
-					<small> Tony Manuel MD, MMM</small>
+					Tony Manuel MD, MMM
   				</div>
 				<div class="item-small">
     					<img src="/img/Dunn-Andrew-3.jpg" alt="" style="width:130px;height:130px"/>
-					<small> Andrew Dunn PhD </small>
+					Andrew Dunn PhD
 				</div>
 			</div>
 		</center> 
