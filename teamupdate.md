@@ -10,11 +10,21 @@ subtitle: About Us
 	<p> 
 		<center> <h1> Leadership </h1> 
 			<div id="index-gallery;width=auto;">
-				    <p style="text-align: center;">
-    					<img src="/img/EH22_cropped_square_v2.png" alt="" style="width:170px;height:200px"/>
-    					<img src="/img/DavidMillerHeadshot_v2.png" alt="" style="width:160px;height:200px"/>
-    					<img src="/img/Dunn-Andrew-4.png" alt="" style="width:170px;height:200px"/>
-				</p>
+  				<div class="item-img">	 
+					<br>
+				</div>
+				<div class="item">
+    					<img src="/img/EH22_cropped_square.jpg" alt="" style="width:170px;height:170px"/>
+    					Elizabeth Hoff <br> CEO
+  				</div>
+				<div class="item">
+    					<img src="/img/DavidMillerHeadshot.jpg" alt="" style="width:160px;height:170px"/>
+    					David Miller PhD <br> VP PM & Eng
+  				</div>
+				<div class="item">
+    					<img src="/img/Dunn-Andrew-3.jpg" alt="" style="width:170px;height:170px"/>
+    					Andrew Dunn PhD <br> CSO
+  				</div>
 			</div> 
 		</center>
 	</p>
