@@ -9,7 +9,6 @@ subtitle: About Us
 	</p>
 	<p> 
 		<center> <h1> Leadership </h1> 
-			<div id="index-gallery;width=auto;">
 				<div class="item">
     					<img src="/img/EH22_cropped_square.jpg" alt="" style="width:170px;height:170px"/>
     					Elizabeth Hoff <br> CEO
@@ -22,7 +21,6 @@ subtitle: About Us
     					<img src="/img/Dunn-Andrew-3.jpg" alt="" style="width:170px;height:170px"/>
     					Andrew Dunn PhD <br> CSO
   				</div>
-			</div> 
 		</center>
 	</p>
 </div>
