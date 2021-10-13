@@ -9,7 +9,7 @@ subtitle: About Us
 	</p>
 	<p align="center">
 		<center> <h1> Leadership </h1> 
-				<div class="item-center" >
+				<div class="item" >
     					<img src="/img/EH22_cropped_square.jpg" alt="" style="width:170px;height:170px"/>
     					Elizabeth Hoff <br> CEO
   				</div>
