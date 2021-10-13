@@ -9,15 +9,15 @@ subtitle: About Us
 	</p>
 	<p align="center">
 		<center> <h1> Leadership </h1> 
-				<div class="item">
+				<div class="item-center" >
     					<img src="/img/EH22_cropped_square.jpg" alt="" style="width:170px;height:170px"/>
     					Elizabeth Hoff <br> CEO
   				</div>
-				<div class="item">
+				<div class="item-center">
     					<img src="/img/DavidMillerHeadshot.jpg" alt="" style="width:160px;height:170px"/>
     					David Miller PhD <br> VP PM & Eng
   				</div>
-				<div class="item">
+				<div class="item-center">
     					<img src="/img/Dunn-Andrew-3.jpg" alt="" style="width:170px;height:170px"/>
     					Andrew Dunn PhD <br> CSO
   				</div>
