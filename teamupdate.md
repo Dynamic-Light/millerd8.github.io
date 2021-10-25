@@ -8,28 +8,28 @@ subtitle: About Us
 	Dynamic Light is based in Austin, Texas and was founded in May 2018. Dynamic Light’s mission is to enable real-time blood flow imaging to improve patient care and lower health care costs.  Our technology supports better decision making by providing surgeons continuous, real-time, and high-resolution visualization of blood flow and perfusion.
 	</p>
 	<p> 
-		<center> <h1> Leadership </h1> 
-			<div id="container">
-    				<div id="some_kind_of_popup">
-    						<img src="/img/EH22_v4.png" alt="" style="width:170px;height:170px"/> Elizabeth Hoff <br> CEO
-					<div class="item">
-    						<img src="/img/DavidMillerHeadshot.jpg" alt="" style="width:160px;height:170px"/>
-    						David Miller PhD <br> VP Eng & PM
-  					</div>
-					<div class="item">
-    						<img src="/img/Dunn-Andrew-3.jpg" alt="" style="width:170px;height:170px"/>
-    						Andrew Dunn PhD <br> CSO
-  					</div>
-				</div>
-			</div>
-		</center>
+		 <h1> Leadership </h1> 
+			<div id="index-gallery;width=auto;">
+				<div class="item">
+    					<img src="/img/EH22_v4.png" alt="" style="width:170px;height:170px"/>
+    					Elizabeth Hoff <br> CEO
+  				</div>
+				<div class="item">
+    					<img src="/img/DavidMillerHeadshot.jpg" alt="" style="width:160px;height:170px"/>
+    					David Miller PhD <br> VP Eng & PM
+  				</div>
+				<div class="item">
+    					<img src="/img/Dunn-Andrew-3.jpg" alt="" style="width:170px;height:170px"/>
+    					Andrew Dunn PhD <br> CSO
+  				</div>
+			</div> 
 	</p>
 </div>
 <div style="clear:both;height:0.2em;"></div>
 <div>
 	<p>
-		<center> <h1> Board of Directors </h1> 
-			<div id="index-gallery;width=auto;">
+		<h1> Board of Directors </h1> 
+			<div id="index-gallery-extend;width=auto;">
 				<div class="item-small">
     					<img src="/img/EH22_v4.png" alt="" style="width:130px;height:130px"/>
 					Elizabeth Hoff
@@ -51,7 +51,6 @@ subtitle: About Us
 					Andrew Dunn PhD
 				</div>
 			</div>
-		</center> 
 	</p>
 </div>
 <div style="clear:both;height:0.2em;"></div>
