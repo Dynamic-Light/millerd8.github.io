@@ -28,7 +28,7 @@ subtitle: About Us
 <div style="clear:both;height:0.2em;"></div>
 <div>
 	<p>
-		<center> <h1> Board of Directors </h1> 
+		<h1> Board of Directors </h1> 
 			<div id="index-gallery;width=auto;">
 				<div class="item-small">
     					<img src="/img/EH22_v4.png" alt="" style="width:130px;height:130px"/>
@@ -51,7 +51,6 @@ subtitle: About Us
 					Andrew Dunn PhD
 				</div>
 			</div>
-		</center> 
 	</p>
 </div>
 <div style="clear:both;height:0.2em;"></div>
