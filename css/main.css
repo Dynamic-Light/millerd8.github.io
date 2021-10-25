@@ -700,6 +700,17 @@ pre {
   float:left;
 }
 
+.item-small-extend{
+  width:170px;
+  text-align:center;
+  display:block;
+  background-color: transparent;
+  border: 1px solid transparent;
+  margin-right: 1px;
+  margin-bottom: 0px;
+  float:left;
+}
+
 #container{
     position: fixed;
     top: 100px;
