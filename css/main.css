@@ -700,14 +700,14 @@ pre {
   float:left;
 }
 
-.container{
+#container{
     position: fixed;
     top: 100px;
     width: 100%;
     text-align: center;
 }
 
-.some_kind_of_popup{
+#some_kind_of_popup{
     display:inline-block;
     width: 90%;
     max-width: 900px;  
