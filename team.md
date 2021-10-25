@@ -8,11 +8,8 @@ subtitle: About Us
 	Dynamic Light is based in Austin, Texas and was founded in May 2018. Dynamic Light’s mission is to enable real-time blood flow imaging to improve patient care and lower health care costs.  Our technology supports better decision making by providing surgeons continuous, real-time, and high-resolution visualization of blood flow and perfusion.
 	</p>
 	<p> 
-		<center> <h1> Leadership </h1> 
+		 <h1> Leadership </h1> 
 			<div id="index-gallery;width=auto;">
-  				<div class="item-img">	 
-					<br>
-				</div>
 				<div class="item">
     					<img src="/img/EH22_v4.png" alt="" style="width:170px;height:170px"/>
     					Elizabeth Hoff <br> CEO
@@ -26,7 +23,6 @@ subtitle: About Us
     					Andrew Dunn PhD <br> CSO
   				</div>
 			</div> 
-		</center>
 	</p>
 </div>
 <div style="clear:both;height:0.2em;"></div>
