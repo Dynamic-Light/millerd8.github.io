@@ -11,8 +11,7 @@ subtitle: About Us
 		<center> <h1> Leadership </h1> 
 			<div id="container">
     				<div id="some_kind_of_popup">
-    						<img src="/img/EH22_v4.png" alt="" style="width:170px;height:170px"/>
-    						Elizabeth Hoff <br> CEO
+    						<img src="/img/EH22_v4.png" alt="" style="width:170px;height:170px"/> Elizabeth Hoff <br> CEO
 					<div class="item">
     						<img src="/img/DavidMillerHeadshot.jpg" alt="" style="width:160px;height:170px"/>
     						David Miller PhD <br> VP Eng & PM
