@@ -700,6 +700,20 @@ pre {
   float:left;
 }
 
+#container{
+    position: fixed;
+    top: 100px;
+    width: 100%;
+    text-align: center;
+}
+
+#some_kind_of_popup{
+    display:inline-block;
+    width: 90%;
+    max-width: 900px;  
+    min-height: 300px;  
+}
+
 #index-gallery{
   width:1000px;
 }
