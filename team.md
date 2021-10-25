@@ -29,7 +29,7 @@ subtitle: About Us
 <div>
 	<p>
 		<h1> Board of Directors </h1> 
-			<div id="index-gallery;width=auto;">
+			<div id="index-gallery-extend;width=auto;">
 				<div class="item-small">
     					<img src="/img/EH22_v4.png" alt="" style="width:130px;height:130px"/>
 					Elizabeth Hoff
