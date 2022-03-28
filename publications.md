@@ -34,8 +34,8 @@ C. T. Sullender, L. M. Richards, F. He, L. Luan, and A. K. Dunn, <cite>Journal o
 <div style="clear:both;height:0.2em;"></div>
 <div>	
 <h3>2021</h3>
-<h4> 	<a href="https://doi.org/10.1101/2021.04.29.21254954"> Laser speckle contrast imaging for visualizing blood flow during cerebral aneurysm surgery: A comparison with indocyanine green angiography</a> </h4>
-D. R. Miller, R. Ashour, C. T. Sullender, and A. K. Dunn, <cite>medRxiv</cite> (2021)
+<h4> 	<a href="https://foil.bme.utexas.edu/media/papers/10.1016/j.celrep.2021.109048.pdf"> Reactive astrocytes facilitate vascular repair and remodeling after stroke </a> </h4>
+M. R. Williamson, C. J. A. Fuertes, A. K. Dunn, M. R. Drew, and T. A. Jones, <cite>Cell Reports</cite> (2021)
 </div>
 <div style="clear:both;height:0.2em;"></div>
 <div>
