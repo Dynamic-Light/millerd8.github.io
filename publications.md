@@ -30,9 +30,10 @@ D. R. Miller, R. Ashour, C. T. Sullender, and A. K. Dunn, <cite>Neurophotonics</
 <h4> 	<a href="https://foil.bme.utexas.edu/media/papers/10.1016/j.jneumeth.2021.109434.pdf7"> Dynamics of isoflurane-induced vasodilation and blood flow of cerebral vasculature revealed by multi-exposure speckle imaging</a> </h4>
 C. T. Sullender, L. M. Richards, F. He, L. Luan, and A. K. Dunn, <cite>Journal of Neuroscience Methods</cite> (2022)
 <div style="clear:both;height:0.2em;"></div>
-
 <h3>2021</h3>
 <h4> 	<a href="https://foil.bme.utexas.edu/media/papers/10.1016/j.celrep.2021.109048.pdf"> Reactive astrocytes facilitate vascular repair and remodeling after stroke </a> </h4>
+M. R. Williamson, C. J. A. Fuertes, A. K. Dunn, M. R. Drew, and T. A. Jones, <cite>Cell Reports</cite> (2021)
+h4> 	<a href="https://foil.bme.utexas.edu/media/papers/10.1016/j.celrep.2021.109048.pdf"> Reactive astrocytes facilitate vascular repair and remodeling after stroke </a> </h4>
 M. R. Williamson, C. J. A. Fuertes, A. K. Dunn, M. R. Drew, and T. A. Jones, <cite>Cell Reports</cite> (2021)
 </div>
 <div style="clear:both;height:0.2em;"></div>
