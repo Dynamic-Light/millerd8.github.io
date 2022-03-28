@@ -24,6 +24,12 @@ Dynamic Light's SpeckleView&reg; technology has 20 years of research evidence to
  </p>
 </div> 
 <div>
+<h3>2022</h3>
+<h4> 	<a href="https://www.spiedigitallibrary.org/journals/neurophotonics/volume-9/issue-02/021908/Continuous-blood-flow-visualization-with-laser-speckle-contrast-imaging-during/10.1117/1.NPh.9.2.021908.full?SSO=1"> Continuous blood flow visualization with laser speckle contrast imaging during neurovascular surgery</a> </h4>
+D. R. Miller, R. Ashour, C. T. Sullender, and A. K. Dunn, <cite>Neurophotonics</cite> (2022)
+</div>
+<div style="clear:both;height:0.2em;"></div>
+<div>	
 <h3>2021</h3>
 <h4> 	<a href="https://doi.org/10.1101/2020.06.26.174227"> Dynamics of isoflurane-induced vasodilation and blood flow of cerebral vasculature revealed by multi-exposure speckle imaging</a> </h4>
 C. T. Sullender, L. M. Richards, F. He, L. Luan, and A. K. Dunn, <cite>bioRxiv</cite> (2021)
