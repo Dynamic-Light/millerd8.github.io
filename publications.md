@@ -9,6 +9,7 @@ subtitle: Based On 20 Years of Research
 Dynamic Light's SpeckleView&reg; technology has 20 years of research evidence to support its utility in the operating room. Back in 2001, co-founder Andrew Dunn demonstrated the first use of laser speckle to image blood flow in a rodent brain. Andrew Dunn translated the use of laser speckle to the operating room and published the <a href="https://foil.bme.utexas.edu/media/papers/10.1117/1.3526368.pdf"> seminal paper</a> in 2010 demonstrating the ability of SpeckleView technology to monitor cerebral blood flow during neurosurgery. This was followed with a demonstration of SpeckleView technology with an <a href="https://foil.bme.utexas.edu/media/papers/10.1117/1.JBO.18.9.090501.pdf"> endoscope</a> in 2013. A <a href="https://foil.bme.utexas.edu/media/papers/10.1117/1.NPh.1.1.015006.pdf"> 2014 paper</a> showed the utility of SpeckleView technology in 10 neurosurgery patients, followed by a <a href="https://foil.bme.utexas.edu/media/papers/10.1177/0271678X16686987.pdf"> 2017 demonstration</a> of quantitative blood flow monitoring in 8 neurosurgery cases. A recent 2022 manuscript directly compared <a href="https://www.spiedigitallibrary.org/journals/neurophotonics/volume-9/issue-02/021908/Continuous-blood-flow-visualization-with-laser-speckle-contrast-imaging-during/10.1117/1.NPh.9.2.021908.full?SSO=1"> SpeckleView with indocyanine green angiography</a> demonstrating that the techniques provide different, yet complementary information about vessel perfusion. 
  </p>
 </div>  
+<!--
 <div>
   <p>
         <h2> Peer-Reviewed Publications </h2>
@@ -227,4 +228,4 @@ H. Bolay, U. Reuter, A. K. Dunn, Z. Huang, D. A. Boas, M. A. Moskowitz, <cite>Na
 <h3>2001</h3>
 <h4> 	<a href="https://doi.org/10.1097/00004647-200103000-00002"> Dynamic imaging of cerebral blood flow using laser speckle </a> </h4>
 A. K. Dunn, H. Bolay, M. A. Moskowitz, and D. A. Boas, <cite>Journal of Cerebral Blood Flow &amp; Metabolism</cite> (2001)
-	
+-->
