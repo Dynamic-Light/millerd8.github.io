@@ -12,7 +12,7 @@ subtitle: About Us
     			<img src="/img/TAMU_DL.jpg" alt="" style="width:650px;height:217px"/>
   		</div>
 	</div> 
-	
+	<div style="clear:both;height:0.2em;"></div>
 	<p> 
 		 <h1> Leadership </h1> 
 			<div id="index-gallery;width=auto;">
