@@ -48,10 +48,6 @@ subtitle: About Us
     					<img src="/img/TonyManuelFinal_V2.png" alt="" style="width:130px;height:130px"/>
 					Tony Manuel MD, MMM
   				</div>
-				<div class="item-small">
-    					<img src="/img/Dunn-Andrew-3.jpg" alt="" style="width:130px;height:130px"/>
-					Andrew Dunn PhD
-				</div>
 			</div>
 	</p>
 </div>
