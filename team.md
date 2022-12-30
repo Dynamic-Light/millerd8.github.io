@@ -23,7 +23,7 @@ subtitle: About Us
 	<p>
 		<h1> Board of Directors </h1> 
 			<div id="index-gallery-extend;width=auto;">
-				<div class="item-small">
+				<div class="item">
     					<img src="/img/Andrew_Dunn.png" alt="" style="width:170px;height:170px"/>
     					Andrew Dunn, PhD
   				</div>
