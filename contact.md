@@ -11,6 +11,6 @@ subtitle: Contact Us
     </p>
 
      <p style="text-align: center;">    
-        Please contact Elizabeth Hoff at <a href="mailto:ehoff@dynamiclight.ai">ehoff@dynamiclight.ai</a> for more information.   
+        Please contact Andrew Dunn at <a href="mailto:adunn@dynamiclight.ai">adunn@dynamiclight.ai</a> for more information.   
     </p>
 </div>
