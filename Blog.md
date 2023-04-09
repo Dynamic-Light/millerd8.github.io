@@ -3,8 +3,10 @@ layout: page
 title: Dynamic Light
 subtitle: Blog
 ---
+
 <div>
     <p style="text-align: center;">
-      Coming soon!
+        Coming soon!
     </p>
 </div>
+
