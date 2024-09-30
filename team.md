@@ -36,7 +36,7 @@ subtitle: About Us
     					Andrew Dunn, PhD
   				</div>
 				<div class="item">
-    					<img src="/img/Miller_headshot_1_cropped.jpeg" alt="" style="width:160px;height:170px"/>
+    					<img src="/img/DavidMillerHeadshot_v2.png" alt="" style="width:160px;height:170px"/>
     					David Miller, PhD
   				</div>
 			</div>
