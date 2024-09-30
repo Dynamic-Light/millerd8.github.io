@@ -28,7 +28,7 @@ subtitle: About Us
 		<h1> Board of Directors </h1> 
 			<div id="index-gallery-extend;width=auto;">
 				<div class="item">
-    					<img src="/img/Steve.jpg" alt="" style="width:170px;height:170px"/>
+    					<a href="https://www.dynamiclight.ai/steve/"> <img src="/img/Steve.jpg" alt="" style="width:170px;height:170px"/> </a>
     					<a href="https://www.dynamiclight.ai/steve/">Steve Whitlock </a>
   				</div>
 				<div class="item">
