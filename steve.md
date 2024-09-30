@@ -18,7 +18,6 @@ Steve brings over 30 years of experience in areas of product development, produc
 			<div id="index-gallery;width=auto;">
 				<div class="item">
     					<img src="/img/Steve.jpg" alt="" style="width:170px;height:170px"/>
-    					Steve Whitlock <br> CEO
   				</div>
 			</div> 
 	</p>
