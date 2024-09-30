@@ -29,7 +29,7 @@ subtitle: About Us
 			<div id="index-gallery-extend;width=auto;">
 				<div class="item">
     					<img src="/img/Steve.jpg" alt="" style="width:170px;height:170px"/>
-    					Steve Whitlock <br>
+    					<a href="https://www.dynamiclight.ai/steve/">Steve Whitlock </a>
   				</div>
 				<div class="item">
     					<img src="/img/Andrew_Dunn.png" alt="" style="width:170px;height:170px"/>
